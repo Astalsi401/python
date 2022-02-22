@@ -3,6 +3,7 @@ import numpy as np
 import yfinance as yf
 import h5py
 import pandas as pd
+import time
 
 
 link = "https://query1.finance.yahoo.com/v7/finance/download/000004.SZ?period1=662774400&period2=1636070400&interval=1d&events=history&includeAdjustedClose=true"

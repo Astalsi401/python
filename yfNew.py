@@ -6,7 +6,7 @@ import urllib.request
 
 pwd = 'D:\Documents\work\產業研究\生醫上市櫃\pythonCsv'
 period1 = int(time.mktime(datetime.datetime(1979, 12, 31, 23, 59).timetuple()))
-period2 = int(time.mktime(datetime.datetime(2021, 12, 31, 23, 59).timetuple()))
+period2 = int(time.mktime(datetime.datetime(2022, 12, 31, 23, 59).timetuple()))
 interval = '1d'  # 1d, 1m
 stockId = open('stockIdEdit.txt', 'r')
 print(stockId)
