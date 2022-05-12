@@ -1,7 +1,10 @@
 import os
+import requests
 from csv import writer, reader
 from datetime import date
-from xml.etree.ElementTree import tostring
+from openpyxl import load_workbook
+from time import sleep
+import pandas as pd
 
 
 def writeCsv(path, name, data, mode='w+'):
@@ -20,6 +23,15 @@ def readCsv(path, name):
         for c in b:
             a.append(c)
     return a
+
+
+def getXlsxSheets(path, name):
+    wb = load_workbook(f'{path}/{name}.xlsx')
+    sheetnames = wb.get_sheet_names()
+    with open(f'{path}/{name}_sheetname.txt', 'w', encoding='UTF-8-sig') as f:
+        for b in sheetnames:
+            f.write(f'{b}\n')
+    print(f'{name}_sheetname.txt saved')
 
 
 def yearsCalc(yearsAgo=0):
