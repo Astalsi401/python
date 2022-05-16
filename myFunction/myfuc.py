@@ -1,11 +1,8 @@
 import os
-import requests
 from csv import writer, reader
 from json import dump
 from datetime import date
 from openpyxl import load_workbook
-from time import sleep
-import pandas as pd
 
 
 def writeCsv(path, name, data, mode='w+'):

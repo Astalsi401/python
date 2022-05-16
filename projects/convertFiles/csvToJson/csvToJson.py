@@ -1,9 +1,6 @@
-from datetime import date
 import os
 from csv import writer, reader
-from json import dump, load
-
-pwd = os.path.dirname(os.path.abspath(__file__)).replace('\\', '/')
+from json import dump
 
 
 def writeCsv(path, name, data, mode='w+'):
@@ -52,5 +49,6 @@ def writeJson(path, json, name, mode='w+', encoding='utf-8-sig'):
         print(f'{path}/{name} saved!')
 
 
+pwd = os.path.dirname(os.path.abspath(__file__)).replace('\\', '/')
 for name in getFilesName(f'{pwd}/csv', 'csv'):
     writeJson(f'{pwd}/json', convertToJson(readCsv(f'{pwd}/csv', f'{name}')), f'{name}')

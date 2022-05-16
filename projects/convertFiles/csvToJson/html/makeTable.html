@@ -8,32 +8,24 @@
         body {
             overflow-x: hidden;
         }
-
-        .container {
-            width: 800px;
-            background: rgba(0, 0, 0, 0.1);
-            margin: 0 auto;
-        }
     </style>
 </head>
 
 <body>
-    <div class="container">
-        <div class="myTable">
-            <table id="0"></table>
-        </div>
-        <div class="myTable">
-            <table id="1"></table>
-        </div>
-        <div class="myTable">
-            <table id="2"></table>
-        </div>
-        <div class="myTable">
-            <table id="3"></table>
-        </div>
-        <div class="myTable">
-            <table id="4"></table>
-        </div>
+    <div class="autoTable">
+        <table id="0"></table>
+    </div>
+    <div class="autoTable">
+        <table id="1"></table>
+    </div>
+    <div class="autoTable">
+        <table id="2"></table>
+    </div>
+    <div class="autoTable">
+        <table id="3"></table>
+    </div>
+    <div class="autoTable">
+        <table id="4"></table>
     </div>
     <script>
         const tableData = [
@@ -157,22 +149,22 @@
             $(`#${i}`).html(tableContents)
             i++
         });
-        $('.myTable').css({
+        $('.autoTable').css({
             "width": "100%",
             'overflow-x': 'auto'
         })
-        $('.myTable table').css({
-            'min-width': '100%',
-            'margin': '30px auto'
+        $('.autoTable table').css({
+            'margin-top': '15px',
+            'margin-bottom': '15px'
         })
-        $('.myTable td').css({
+        $('.autoTable td').css({
             'padding': '3px 10px'
         })
-        $('.myTable td:first-child').css({
+        $('.autoTable td:first-child').css({
             'background': 'rgba(55, 67, 121, 1)',
             'color': 'white'
         })
-        $('.myTable tr:first-child').css({
+        $('.autoTable tr:first-child').css({
             'background': 'rgba(55, 67, 121, 1)',
             'color': 'white'
         })
