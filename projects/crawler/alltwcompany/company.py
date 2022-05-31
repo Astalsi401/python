@@ -1,7 +1,5 @@
-from numpy import append
 from bs4 import BeautifulSoup
 import codecs
-import pandas as pd
 import random
 import requests
 import sys

@@ -17,7 +17,7 @@ for sid in stockId:
         link = f'https://query1.finance.yahoo.com/v7/finance/download/{sid}?period1={period1}&period2={period2}&interval={interval}&events=history&includeAdjustedClose=true'
         urllib.request.urlopen(link).code
     except Exception as err:
-        pass
+        print(err)
     else:
         df = pd.read_csv(link)
         df.to_csv(f'{pwd}\{sid}.csv')
