@@ -1,6 +1,13 @@
-from selenium import webdriver
+from os.path import dirname, abspath
+pwd = dirname(abspath(__file__))
 
+var = ['score', 'option', 'tempcode', 'usercode']
+tmp = []
+f = open(f"{pwd}/test.txt", "r")
+Lines = f.readlines()
 
-driver = webdriver.Firefox()
-driver.get('https://www.google.com/')
-input()
+for i in range(0, len(Lines)):
+    exec(f'{var[i]} = {Lines[i]}')
+
+    # check type
+    exec(f'print({var[i]}, type({var[i]}))')

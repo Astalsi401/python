@@ -49,6 +49,20 @@ def writeJson(path, json, name, mode='w+', encoding='utf-8-sig'):
         print(f'{path}/{name} saved!')
 
 
+def writeHtml(data, name):
+    '''list to html table'''
+    htmlTable = '<table>'
+    for row in data:
+        htmlTable += '<tr>'
+        for c in row:
+            htmlTable += f'<td>{c}</td>'
+        htmlTable += '</tr>'
+    htmlTable += '</table>'
+    with open(f'{pwd}/html/{name}.html', mode='w+') as f:
+        f.write(htmlTable)
+
+
 pwd = os.path.dirname(os.path.abspath(__file__)).replace('\\', '/')
 for name in getFilesName(f'{pwd}/csv', 'csv'):
-    writeJson(f'{pwd}/json', convertToJson(readCsv(f'{pwd}/csv', f'{name}')), f'{name}')
+    '''writeJson(f'{pwd}/json', convertToJson(readCsv(f'{pwd}/csv2', f'{name}')), f'{name}')'''
+    writeHtml(readCsv(f'{pwd}/csv', name), name.replace('.csv', ''))

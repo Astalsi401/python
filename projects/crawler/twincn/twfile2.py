@@ -1,7 +1,7 @@
+from cgi import print_form
 import os
 from csv import writer, reader
 from time import sleep
-from urllib import request
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -16,7 +16,7 @@ from pandas import unique
 pwd = os.path.dirname(os.path.abspath(__file__)).replace('\\', '/')
 chop = webdriver.ChromeOptions()
 chop.add_extension('D:/Tools/driver/4.46.2_0.crx')  # adblock
-chop.add_extension('D:/Tools/driver/7.0.10_0.crx')  # vpn
+chop.add_extension('D:/Tools/driver/windscribe_3.4.3_0.crx')
 
 
 def readCsv(path, name):
@@ -42,20 +42,55 @@ def getKeys():
         writeCsv(f'{pwd}/csv', 'keys.csv', [[key]], mode='a+')
 
 
+def reconnect(driver):
+    print('vpn reconnect')
+    driver.switch_to.window(driver.window_handles[0])
+    sleep(5)
+    print('vpn off', end='')
+    driver.find_element(By.XPATH, '//*[@id="app-frame"]/div/div[4]/div[1]/div/div[1]/div/div[3]/button').click()
+    for i in range(0, 5):
+        sleep(1)
+        print('.', end='')
+    print('vpn on')
+    driver.find_element(By.XPATH, '//*[@id="app-frame"]/div/div[4]/div[1]/div/div[1]/div/div[3]/button').click()
+    sleep(5)
+    driver.switch_to.window(driver.window_handles[1])
+
+
+def vpn(driver):
+    driver.switch_to.window(driver.window_handles[0])
+    vpn = 'chrome-extension://hnmpcagpplmpfojmgmnngilcnanddlhb/popup.html'
+    driver.get(vpn)
+    username = 'link9186'
+    password = 'l3puod26'
+    w = WebDriverWait(driver, 10)
+    w.until(EC.presence_of_element_located((By.XPATH, '//*[@id="app-frame"]/div/button[2]')))
+    driver.find_element(By.XPATH, '//*[@id="app-frame"]/div/button[2]').click()
+    print('login windscribe')
+    w.until(EC.presence_of_element_located((By.XPATH, '//*[@id="app-frame"]/div/div/form/div[1]/div[2]/input')))
+    driver.find_element(By.XPATH, '//*[@id="app-frame"]/div/div/form/div[1]/div[2]/input').send_keys(username)
+    w.until(EC.presence_of_element_located((By.XPATH, '//*[@id="app-frame"]/div/div/form/div[2]/div[2]/input')))
+    driver.find_element(By.XPATH, '//*[@id="app-frame"]/div/div/form/div[2]/div[2]/input').send_keys(password)
+    driver.find_element(By.XPATH, '//*[@id="app-frame"]/div/div/form/div[3]/button').click()
+
+    w.until(EC.presence_of_element_located((By.XPATH, '//*[@id="app-frame"]/div/button[2]')))
+    driver.find_element(By.XPATH, '//*[@id="app-frame"]/div/button[2]').click()
+    reconnect(driver)
+    driver.switch_to.window(driver.window_handles[1])
+
+
 def getLinks():
     keys = readCsv(f'{pwd}/csv', 'keys.csv')
     url = 'https://www.twfile.com/'
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chop)
     vpn(driver)
-    requestCount = 1
     driver.find_element(By.TAG_NAME, 'body').send_keys(Keys.CONTROL + 't')
-    requestLimit = randint(20, 50)
-    for j in range(1493, len(keys)):
-        print(f'key: {j} count: {requestCount}/{requestLimit}')
+    for j in range(4188, len(keys)):
+        print(f'key: {j}')
         while True:
             try:
                 driver.get(url)
-                for i in range(randint(5, 10), 0, -1):
+                for i in range(randint(20, 30), 0, -1):
                     if i != 1:
                         print(i, end=' ')
                     else:
@@ -74,50 +109,6 @@ def getLinks():
                 reconnect(driver)
                 continue
             break
-        requestCount += 1
-        if requestCount == requestLimit:
-            requestCount = reconnect(driver)
-            requestLimit = randint(20, 50)
-
-
-def reconnect(driver):
-    driver.switch_to.window(driver.window_handles[0])
-    while True:
-        try:
-            driver.find_element(By.XPATH, '//*[@id="screenMain"]/div[3]/button[1]').click()
-            sleep(2)
-            driver.find_element(By.XPATH, '//*[@id="screenMain"]/div[3]/button[1]').click()
-            sleep(2)
-        except:
-            print('connect retry')
-            vpn = 'chrome-extension://gjknjjomckknofjidppipffbpoekiipm/panel/index.html'
-            driver.get(vpn)
-            w = WebDriverWait(driver, 30)
-            w.until(EC.presence_of_element_located((By.XPATH, '//*[@id="screenMain"]/div[3]/button[1]')))
-            continue
-        break
-    driver.switch_to.window(driver.window_handles[1])
-    return 1
-
-
-def vpn(driver):
-    driver.switch_to.window(driver.window_handles[0])
-    vpn = 'chrome-extension://gjknjjomckknofjidppipffbpoekiipm/panel/index.html'
-    driver.get(vpn)
-    w = WebDriverWait(driver, 30)
-    w.until(EC.presence_of_element_located((By.XPATH, '//*[@id="screenMain"]/div[3]/button[1]')))
-    while True:
-        try:
-            driver.find_element(By.XPATH, '//*[@id="screenMain"]/div[3]/button[1]').click()
-        except:
-            print('connect retry')
-            vpn = 'chrome-extension://gjknjjomckknofjidppipffbpoekiipm/panel/index.html'
-            driver.get(vpn)
-            w = WebDriverWait(driver, 30)
-            w.until(EC.presence_of_element_located((By.XPATH, '//*[@id="screenMain"]/div[3]/button[1]')))
-            continue
-        break
-    driver.switch_to.window(driver.window_handles[1])
 
 
 def main():

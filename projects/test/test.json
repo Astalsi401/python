@@ -1,0 +1,6 @@
+{
+  "score": 2,
+  "option": ["q1_a1", "q1_a2", "q2_a1"],
+  "tempcode": "+ + \nelse if (\nelse if (\nelse if (\nelse if (",
+  "usercode": "var has_answer = function (answer) {\n        return indexOf(answer) >= 0;\n    };"
+}

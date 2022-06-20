@@ -45,17 +45,14 @@ def getLinks(keyword, data):
             driver.find_element(By.CSS_SELECTOR, 'a.next').click()
         else:
             break
-
     writeCsv(f'{pwd}/csv', '違規紀錄_連結.csv', data)
     driver.close()
     driver.quit()
-    # sleep(30)
 
 
 def getVio():
     links = readCsv(f'{pwd}/csv', '違規紀錄_連結.csv')
     driver = webdriver.Chrome(f'{chromedriver}/chromedriver')
-    # driver.minimize_window()
     data = []
     for link in links:
         url = link[3]
