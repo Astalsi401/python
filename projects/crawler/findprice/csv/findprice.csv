@@ -1,175 +1,393 @@
 source,key,site,price,name,event,link
-findprice,娘家大紅麴,momo購物網,"$ 15,480",【娘家官方直營】娘家大紅麴六盒(30粒/盒),"['活動\n整點搶mo幣 100%中獎', '']",https://www.findprice.com.tw/go/gr3geqbg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,鮮拾,"$ 6,810",【娘家】大紅麴(30粒/盒x3盒組),"['活動\n結帳滿618登記抽金條', '折扣\n結帳滿$1688輸碼折$168  折扣碼：10MART168 複製折扣碼 ']",https://www.findprice.com.tw/go/g5j8sr6m/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 麥叔叔的店,"$ 2,290",娘家大紅麴膠囊 30粒/盒,"['活動\n618最下殺 美妝 / 保健 / 美食 / 寵物', '']",https://www.findprice.com.tw/go/gyh2kjmd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 安康藥妝,"$ 2,299",娘家 大紅麴膠囊 30入/盒,"['活動\n618最下殺 美妝 / 保健 / 美食 / 寵物', '']",https://www.findprice.com.tw/go/g6qzday7/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩購物中心,"$ 2,450",(官方直營)娘家大紅麴,"['', '']",https://www.findprice.com.tw/go/gin8grn8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 麥叔叔的店,"$ 2,290",娘家大紅麴膠囊 30粒/盒,"['', '']",https://www.findprice.com.tw/go/gyh2kjmd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 安康藥妝,"$ 2,299",娘家 大紅麴膠囊 30入/盒,"['', '']",https://www.findprice.com.tw/go/g6qzday7/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,鮮拾,"$ 6,810",【娘家】大紅麴(30粒/盒x3盒組),"['', '']",https://www.findprice.com.tw/go/g5j8sr6m/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,屈臣氏網路商店,"$ 2,451",娘家 娘家大紅麴膠囊30粒,"['', '']",https://www.findprice.com.tw/go/gxivqu2y/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,momo購物網,"$ 8,880",【娘家官方直營】娘家大紅麴四盒組(30粒/盒),"['活動\n整點搶mo幣 100%中獎', '']",https://www.findprice.com.tw/go/g7qzf4kx/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 壹品藥局,"$ 2,580",【娘家】大紅麴 30粒/盒,"['活動\n618最下殺 美妝 / 保健 / 美食 / 寵物', '']",https://www.findprice.com.tw/go/grmzpdw9/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 健康優購網,"$ 2,451",娘家大紅麴膠囊(原廠供貨),"['活動\n618最下殺 美妝 / 保健 / 美食 / 寵物', '']",https://www.findprice.com.tw/go/gdaeuhwp/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 元氣健康館,"$ 2,298",娘家- 大紅麴（30粒/盒）元氣健康館,"['活動\n618最下殺 美妝 / 保健 / 美食 / 寵物', '']",https://www.findprice.com.tw/go/gnphk3en/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 壹品藥局,"$ 2,580",【娘家】大紅麴 30粒/盒,"['', '']",https://www.findprice.com.tw/go/grmzpdw9/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 健康優購網,"$ 2,451",娘家大紅麴膠囊(原廠供貨),"['', '']",https://www.findprice.com.tw/go/gdaeuhwp/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 元氣健康館,"$ 2,298",娘家- 大紅麴（30粒/盒）元氣健康館,"['', '']",https://www.findprice.com.tw/go/gnphk3en/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,松果購物,"$ 2,112",【娘家】大紅麴 (30粒/盒) (8.5折),"['', '']",https://www.findprice.com.tw/go/gyfix3cy/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,松果購物,"$ 2,200",娘家 大紅麴膠囊 (30粒/盒) (9.2折),"['', '']",https://www.findprice.com.tw/go/gcn744ac/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,蝦皮商城 - 大樹健康購物網(大樹藥局線上),"$ 2,451",娘家 大紅麴 30粒/盒 大樹,"['活動\n百萬現金帶回家', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g24it7k7/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,蝦皮商城 - 杏一健康生活館,"$ 2,451",娘家 大紅麴膠囊 (30粒/盒)【杏一】,"['活動\n百萬現金帶回家', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g7aa8qt9/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 民雄久久藥局,"$ 2,300",實體藥局✅(1盒)娘家 大紅麴 膠囊 30粒/盒,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gdw9gyvr/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 森活中西藥局,"$ 1,980",藥局💊現貨 娘家系列 常溫滴雞精 大紅麴 益生菌 好茯敏,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gvdy94n5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 禾坊親子藥局,"$ 2,451",【娘家】大紅麴膠囊 (30粒/盒) 民視 禾坊藥局,"['活動\n618最下殺 美妝 / 保健 / 美食 / 寵物', '']",https://www.findprice.com.tw/go/gprmj3y7/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,momo購物網,"$ 15,480",【娘家官方直營】娘家大紅麴六盒(30粒/盒),"['', '']",https://www.findprice.com.tw/go/gr3geqbg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 森活中西藥局,"$ 1,980",藥局💊現貨 娘家系列 常溫滴雞精 大紅麴 益生菌 好茯敏,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gvdy94n5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,momo購物網,"$ 6,811",【娘家官方直營】娘家大紅麴三盒組(30粒/盒),"['', '']",https://www.findprice.com.tw/go/gvrhagy5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 民雄久久藥局,"$ 2,300",實體藥局✅(1盒)娘家 大紅麴 膠囊 30粒/盒,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gdw9gyvr/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,momo購物網,"$ 4,644",【娘家官方直營】娘家大紅麴兩盒組(30粒/盒),"['', '']",https://www.findprice.com.tw/go/gi7k5acy/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 禾坊親子藥局,"$ 2,451",【娘家】大紅麴膠囊 (30粒/盒) 民視 禾坊藥局,"['', '']",https://www.findprice.com.tw/go/gprmj3y7/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,momo購物網,"$ 9,080",【娘家官方直營】娘家大紅麴四盒組(30粒/盒),"['', '']",https://www.findprice.com.tw/go/g7qzf4kx/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,momo摩天商城 - 憨吉小舖,"$ 2,250",【實體藥局|公司貨】娘家 大紅麴膠囊 憨吉小舖(30粒/盒),"['', '']",https://www.findprice.com.tw/go/g5p8e5jq/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 專品藥局,"$ 2,451",民視 娘家 大紅麴 膠囊 30粒/盒 專品藥局【2011418】,"['活動\n萊爾富 $99 限量免運', '']",https://www.findprice.com.tw/go/gim7csfy/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,momo購物網,"$ 6,811",【娘家官方直營】娘家大紅麴三盒組(30粒/盒),"[""活動\n抽 Chloe' 帆布包"", '']",https://www.findprice.com.tw/go/gvrhagy5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 安博氏健康生活館,"$ 2,450",安博氏 民視 娘家大紅麴 (30粒/盒) 榮獲國家健康食品認證,"['活動\n萊爾富 $99 限量免運', '']",https://www.findprice.com.tw/go/gr9c8q9k/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,momo購物網,"$ 4,644",【娘家官方直營】娘家大紅麴兩盒組(30粒/盒),"[""活動\n抽 Chloe' 帆布包"", '']",https://www.findprice.com.tw/go/gi7k5acy/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 德芳保健藥妝,"$ 2,451",民視 娘家大紅麴膠囊 30顆入【德芳保健藥妝】*SNQ國家品質標章*,"['活動\n萊爾富 $99 限量免運', '']",https://www.findprice.com.tw/go/g678gnsq/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 十二願藥局x心心藥局,"$ 2,299",【官方5正貨】娘家 大紅麴膠囊(30粒) (1盒/3盒/6盒) 娘家 大紅麴 十二願藥局,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gq7nzhw3/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,蝦皮商城 - 富康活力藥局,"$ 2,580",娘家 益生菌60包/入 娘家大紅麴30顆/盒 《現貨》乳酸菌 紅麴 【富康活力藥局】,"['活動\n天天蝦幣超值兌', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gwtztdgy/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 安康藥妝,"$ 2,299",娘家 大紅麴膠囊 30入/盒｜公司貨-原廠授權之銷售通路《刷樂天卡滿$5000賺10%點數回饋》,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/g8qvpbgy/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 元氣健康館,"$ 4,542",2盒組 娘家- 大紅麴（30粒/盒）元氣健康館,"['活動\n萊爾富 $99 限量免運', '']",https://www.findprice.com.tw/go/gxxr78wh/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩購物中心,"$ 4,894",娘家大紅麴2盒組(30粒/盒) 原廠公司貨,"['活動\n最強618', '']",https://www.findprice.com.tw/go/gmtpxfwj/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,蝦皮商城 - 專品藥局,"$ 1,350",娘家大紅麴 娘家益生菌 娘家滴雞精 娘家益生菌順暢有酵強效版PLUS 娘家好茯敏 原廠公司貨 健康食品 專品藥局,"['活動\n天天蝦幣超值兌', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g2umfcgk/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 專品藥局,"$ 2,451",民視 娘家 大紅麴 膠囊 30粒/盒 專品藥局【2011418】,"['', '']",https://www.findprice.com.tw/go/gim7csfy/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 安博氏健康生活館,"$ 2,450",安博氏 民視 娘家大紅麴 (30粒/盒) 榮獲國家健康食品認證,"['', '']",https://www.findprice.com.tw/go/gr9c8q9k/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 德芳保健藥妝,"$ 2,451",民視 娘家大紅麴膠囊 30顆入【德芳保健藥妝】*SNQ國家品質標章*,"['', '']",https://www.findprice.com.tw/go/g678gnsq/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 十二願藥局x心心藥局,"$ 2,299",【官方5正貨】娘家 大紅麴膠囊(30粒) (1盒/3盒/6盒) 娘家 大紅麴 十二願藥局,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gq7nzhw3/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 安康藥妝,"$ 2,299",娘家 大紅麴膠囊 30入/盒｜公司貨-原廠授權之銷售通路《刷樂天卡滿$5000賺10%點數回饋》,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g8qvpbgy/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 元氣健康館,"$ 4,542",2盒組 娘家- 大紅麴（30粒/盒）元氣健康館,"['', '']",https://www.findprice.com.tw/go/gxxr78wh/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩購物中心,"$ 4,894",娘家大紅麴2盒組(30粒/盒) 原廠公司貨,"['', '']",https://www.findprice.com.tw/go/gmtpxfwj/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,家樂福線上購物網,"$ 6,811",娘家大紅麴三件組,"['', '']",https://www.findprice.com.tw/go/g2ndgud8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩購物中心,"$ 2,450",【滿3000登記送300購物金】(官方直營)娘家大紅麴,"['活動\n最強618', '']",https://www.findprice.com.tw/go/gin8grn8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,SuperBuy市集,"$ 6,811",娘家大紅麴膠囊3盒88折,"['', '']",https://www.findprice.com.tw/go/gipfs7sf/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,蝦皮商城 - 大樹健康購物網(大樹藥局線上),"$ 6,811",娘家 大紅麴 30粒x3盒/組 大樹,"['活動\n下單抽蘋果萬元禮', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gkjvbydg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩購物中心,"$ 6,811",娘家大紅麴30粒3入/組 娘家系列產品【杏一】,"['活動\n最強618 登記送300購物金', '']",https://www.findprice.com.tw/go/g3ihyz36/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 安康藥妝,"$ 6,690",娘家 大紅麴膠囊 30入/盒X3盒 組合價｜公司貨-原廠授權之銷售通路《刷樂天卡滿$5000賺10%點數回饋》,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/g62i72k7/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 天妍,"$ 2,451",娘家大紅麴30粒,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gcsr7eg4/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩購物中心,"$ 2,322",(官方直營)娘家大紅麴,"['活動\n最強618 登記送300購物金', '']",https://www.findprice.com.tw/go/gk9qjtfq/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,蝦皮商城 - 屈臣氏Watsons,"$ 2,451",娘家大紅麴膠囊30粒,"['活動\n下單抽蘋果萬元禮', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gs3yf6u5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 屈臣氏Watsons,"$ 2,451",娘家大紅麴膠囊30粒,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gkmpfk7n/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,7-ELEVEN線上購物中心,"$ 2,451",【娘家】大紅麴30粒,"['', '']",https://www.findprice.com.tw/go/gnphir3e/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,博客來,"$ 2,451",娘家大紅麴30粒/盒,"['', '']",https://www.findprice.com.tw/go/gndgc8iv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩購物中心,"$ 6,811",娘家大紅麴30粒3入/組 娘家系列產品【杏一】,"['', '']",https://www.findprice.com.tw/go/g3ihyz36/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 安康藥妝,"$ 6,690",娘家 大紅麴膠囊 30入/盒X3盒 組合價｜公司貨-原廠授權之銷售通路《刷樂天卡滿$5000賺10%點數回饋》,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g62i72k7/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 天妍,"$ 2,451",娘家大紅麴30粒,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gcsr7eg4/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,蝦皮商城 - 屈臣氏Watsons,"$ 2,451",娘家大紅麴膠囊30粒,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gs3yf6u5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 屈臣氏Watsons,"$ 2,451",娘家大紅麴膠囊30粒,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gkmpfk7n/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,7-ELEVEN線上購物中心,"$ 2,451",【娘家】大紅麴30粒,"['', '']",https://www.findprice.com.tw/go/gcbv2vsg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,博客來,"$ 2,451",娘家大紅麴30粒/盒,"['', '']",https://www.findprice.com.tw/go/ggqtdshy/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,博客來,"$ 2,451",娘家大紅麴30粒/盒,"['', '']",https://www.findprice.com.tw/go/gpmfn3w5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,博客來,"$ 2,451",娘家大紅麴30粒/盒,"['', '']",https://www.findprice.com.tw/go/g5t5e6b5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 屈臣氏Watsons,"$ 2,451",娘家大紅麴膠囊30粒,"['活動\n今日爆殺-特殺搶先報', '']",https://www.findprice.com.tw/go/gnt9aktv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,蝦皮商城 - 康是美Cosmed,"$ 2,580",娘家大紅麴30粒膠囊,"['活動\n下單抽蘋果萬元禮', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gp52nhcu/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 屈臣氏Watsons,"$ 2,451",娘家大紅麴膠囊30粒,"['', '']",https://www.findprice.com.tw/go/gnt9aktv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,蝦皮商城 - 康是美Cosmed,"$ 2,580",娘家大紅麴30粒膠囊,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gp52nhcu/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,SuperBuy市集,"$ 2,451",娘家大紅麴膠囊1盒95折,"['', '']",https://www.findprice.com.tw/go/gq3whg84/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,蝦皮商城 - 麥叔叔的店 有發票最安心,"$ 2,450",娘家大紅麴膠囊 30粒/盒,"['活動\n下單抽蘋果萬元禮', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gg8yv7yx/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 美麗人生連鎖藥局網路藥妝館,"$ 2,450",娘家大紅麴膠囊 30粒/盒,"['活動\n今日爆殺-特殺搶先報', '']",https://www.findprice.com.tw/go/gi328irm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,鮮拾,"$ 2,580",【娘家】大紅麴30粒膠囊,"['活動\n結帳滿618登記抽金條', '折扣\n結帳滿$1688輸碼折$168  折扣碼：10MART168 複製折扣碼 ']",https://www.findprice.com.tw/go/gwsgqxev/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,蝦皮商城 - 麥叔叔的店 有發票最安心,"$ 2,450",娘家大紅麴膠囊 30粒/盒,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gg8yv7yx/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 美麗人生連鎖藥局網路藥妝館,"$ 2,450",娘家大紅麴膠囊 30粒/盒,"['', '']",https://www.findprice.com.tw/go/gi328irm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,鮮拾,"$ 2,580",【娘家】大紅麴30粒膠囊,"['', '']",https://www.findprice.com.tw/go/gwsgqxev/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,iQueen 愛女人購物網,"$ 2,580",【娘家】大紅麴30粒/盒,"['', '']",https://www.findprice.com.tw/go/gujz74s7/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,蝦皮商城 - 大樹健康購物網(大樹藥局線上),"$ 2,451",娘家 大紅麴 30粒/盒 大樹,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g24it7k7/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,friDay購物,"$ 2,451",娘家大紅麴1盒組 美鳳有約推薦,"['活動\n8周年生日慶，最高回饋50%', '']",https://www.findprice.com.tw/go/gc2eq3gu/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 萊恩藥局,"$ 2,322",娘家大紅麴 30粒/盒【萊恩藥局】,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gyadpcbd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 元康藥局,"$ 2,298",娘家- 大紅麴（30粒/盒）元氣健康館,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gaivjvx9/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 萊恩藥局,"$ 2,322",娘家大紅麴 30粒/盒【萊恩藥局】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gyadpcbd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 元康藥局,"$ 2,298",娘家- 大紅麴（30粒/盒）元氣健康館,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gaivjvx9/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,ETMall東森購物網,"$ 2,451",【娘家】大紅麴一盒組(30粒/盒),"['', '']",https://www.findprice.com.tw/go/g9ym9u7w/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,Her森森購物網,"$ 2,451",【娘家】大紅麴一盒組(30粒/盒),"['', '']",https://www.findprice.com.tw/go/gj98ecgg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,momo購物網,"$ 11,112",【娘家官方直營】娘家大紅麴五盒組(30粒/盒),"['活動\n年中同慶 先搶先贏', '']",https://www.findprice.com.tw/go/gy3ujm32/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 衛立兒生活館,"$ 2,450",娘家大紅麴30粒/盒★衛立兒生活館★,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gawv9uzm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 衛立兒生活館,"$ 2,450",娘家大紅麴30粒/盒★衛立兒生活館★,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gawv9uzm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,momo摩天商城 - Heb康恒生醫,"$ 2,451",【娘家】大紅麴 30粒／盒（1入組）,"['', '']",https://www.findprice.com.tw/go/gj5s7qdy/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 衛立兒生活館,"$ 2,450",娘家大紅麴30粒/盒［衛立兒生活館］,"['活動\n618最下殺 美妝 / 保健 / 美食 / 寵物', '']",https://www.findprice.com.tw/go/gmaqfis8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 衛立兒生活館,"$ 2,450",娘家大紅麴30粒/盒［衛立兒生活館］,"['', '']",https://www.findprice.com.tw/go/gmaqfis8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,ihergo愛合購,"$ 2,184",免運!【娘家】1盒30粒 大紅麴 30粒/盒,"['', '']",https://www.findprice.com.tw/go/g8gkj7wj/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 丞陽健康生活館,"$ 2,359",娘家大紅麴30粒/盒 ◆丞陽健康生活館◆,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gufaqhc8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 愛兒麗婦幼用品,"$ 2,450",娘家大紅麴30粒/盒★愛兒麗婦幼用品★,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gk3e6umz/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 新高橋藥妝,"$ 2,450",娘家大紅麴 膠囊 30粒【新高橋藥妝】,"['活動\n618最下殺 美妝 / 保健 / 美食 / 寵物', '']",https://www.findprice.com.tw/go/gc8k9aeg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - MAYs 美生藥局,"$ 2,550",美生藥局｜【娘家】大紅麴 30粒/盒,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gdwfeauf/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 維康醫療,"$ 2,580",娘家大紅麴 30入膠囊/盒 *維康*,"['活動\n今日爆殺-特殺搶先報', '']",https://www.findprice.com.tw/go/g6ymzxm3/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,蝦皮商城 - 詠安世界藥局,"$ 2,250",娘家大紅麴膠囊(30粒/盒) 【詠安世界藥局】,"['活動\n下單抽蘋果萬元禮', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gbtd2usg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 橘子藥美麗,"$ 2,450",娘家大紅麴膠囊(30粒/盒) 娘家系列產品,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gizmv784/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 德芳保健藥妝,"$ 2,328",民視 娘家大紅麴膠囊 30顆入【德芳保健藥妝】,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/grb4u76q/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,蝦皮商城 - 維康wellcare,"$ 2,580",娘家 大紅麴 30入膠囊/盒 維康 免運,"['活動\n下單抽蘋果萬元禮', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gy7wpjt3/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 美十樂藥妝保健,"$ 2,450",娘家大紅麴30粒 衛部健食字第A00289號,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/grxvmm38/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 立赫健保藥局,"$ 2,451",娘家 大紅麴 30粒/盒 公司貨【立赫藥局】,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/g2e8ft25/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 仁仁保健藥妝,"$ 2,451",娘家 大紅麴膠囊(30粒/盒) 娘家系列產品,"['活動\n今日爆殺-特殺搶先報', '']",https://www.findprice.com.tw/go/gggk7ece/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 美十樂藥妝保健,"$ 2,450",娘家大紅麴30粒 衛部健食字第A00289號,"['活動\n今日爆殺-特殺搶先報', '']",https://www.findprice.com.tw/go/gfsm3k7a/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,蝦皮商城 - 久億藥局 官方賣場,"$ 2,450",娘家 大紅麴膠囊（30粒 / 盒）【久億藥局】,"['活動\n下單抽蘋果萬元禮', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/geshu5wv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,momo購物網,"$ 2,451",【娘家官方直營】娘家大紅麴一盒組(30粒/盒),"['活動\nELEMIS 盛大開館慶 滿千折百無上限', '']",https://www.findprice.com.tw/go/gbwb6wvr/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 何藥局新一代藥妝連鎖,"$ 2,451",娘家 大紅麴膠囊30粒裝【何藥局新一代藥妝連鎖】,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gvx3yp72/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩購物中心,"$ 2,701",娘家大紅麴一盒組(30粒/盒) 原廠公司貨,"['活動\n100%回饋 天天15:00準時開搶', '']",https://www.findprice.com.tw/go/g38nxz76/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - buyme,"$ 1,840",娘家 大紅麴 30粒/盒 / 益生菌 60包/盒 【buyme】,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gdey9wxp/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 丞陽健康生活館,"$ 2,359",娘家大紅麴30粒/盒 ◆丞陽健康生活館◆,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gufaqhc8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 愛兒麗婦幼用品,"$ 2,450",娘家大紅麴30粒/盒★愛兒麗婦幼用品★,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gk3e6umz/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 新高橋藥妝,"$ 2,450",娘家大紅麴 膠囊 30粒【新高橋藥妝】,"['', '']",https://www.findprice.com.tw/go/gc8k9aeg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 小柚子生活館,"$ 2,451",娘家大紅麴 30粒【一盒】 *小柚子*,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gqxmt7as/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - MAYs 美生藥局,"$ 2,550",美生藥局｜【娘家】大紅麴 30粒/盒,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gdwfeauf/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 維康醫療,"$ 2,580",娘家大紅麴 30入膠囊/盒 *維康*,"['', '']",https://www.findprice.com.tw/go/g6ymzxm3/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,蝦皮商城 - 杏一健康生活館,"$ 2,451",娘家 大紅麴膠囊 (30粒/盒)【杏一】,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g7aa8qt9/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,蝦皮商城 - 詠安世界藥局,"$ 2,250",娘家大紅麴膠囊(30粒/盒) 【詠安世界藥局】,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gbtd2usg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 橘子藥美麗,"$ 2,450",娘家大紅麴膠囊(30粒/盒) 娘家系列產品,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gizmv784/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 德芳保健藥妝,"$ 2,328",民視 娘家大紅麴膠囊 30顆入【德芳保健藥妝】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/grb4u76q/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,蝦皮商城 - 春天藥局網路商城,"$ 2,580",【娘家】大紅麴膠囊 30粒/盒 春天藥局,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gtvrjbnv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 美十樂藥妝保健,"$ 2,450",娘家大紅麴30粒 衛部健食字第A00289號,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/grxvmm38/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 美十樂藥妝保健,"$ 2,450",娘家大紅麴30粒 衛部健食字第A00289號,"['', '']",https://www.findprice.com.tw/go/gfsm3k7a/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 立赫健保藥局,"$ 2,451",娘家 大紅麴 30粒/盒 公司貨【立赫藥局】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g2e8ft25/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 仁仁保健藥妝,"$ 2,451",娘家 大紅麴膠囊(30粒/盒) 娘家系列產品,"['', '']",https://www.findprice.com.tw/go/gggk7ece/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,蝦皮商城 - 久億藥局 官方賣場,"$ 2,450",娘家 大紅麴膠囊（30粒 / 盒）【久億藥局】,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/geshu5wv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,momo購物網,"$ 2,451",【娘家官方直營】娘家大紅麴一盒組(30粒/盒),"['', '']",https://www.findprice.com.tw/go/gbwb6wvr/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 何藥局新一代藥妝連鎖,"$ 2,451",娘家 大紅麴膠囊30粒裝【何藥局新一代藥妝連鎖】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gvx3yp72/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩購物中心,"$ 2,701",娘家大紅麴一盒組(30粒/盒) 原廠公司貨,"['', '']",https://www.findprice.com.tw/go/g38nxz76/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - buyme,"$ 1,840",娘家 大紅麴 30粒/盒 / 益生菌 60包/盒 【buyme】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gdey9wxp/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,生活市集,"$ 2,580",【娘家】娘家大紅麴膠囊 30粒/盒【生活市集】,"['', '']",https://www.findprice.com.tw/go/gzmzt7qv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - hofunpharmacy,"$ 2,451",【娘家】大紅麴膠囊 (30粒/盒) 民視 禾坊藥局,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/ggjvnx6v/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 上好連鎖藥局,"$ 2,580",【娘家】大紅麴膠囊 30粒/盒 【上好連鎖藥局】,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/g5svmhew/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - hofunpharmacy,"$ 2,451",【娘家】大紅麴膠囊 (30粒/盒) 民視 禾坊藥局,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/ggjvnx6v/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 上好連鎖藥局,"$ 2,580",【娘家】大紅麴膠囊 30粒/盒 【上好連鎖藥局】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g5svmhew/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,momo摩天商城 - 杏一健康生活館,"$ 2,580",娘家 大紅麴膠囊 (30粒/盒)【杏一】(保健),"['', '']",https://www.findprice.com.tw/go/gfnh6y7u/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 光點藥局,"$ 2,450",娘家 大紅麴 (30粒/盒)｜光點藥局 2010740,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gz7w76e4/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 均福藥局,"$ 2,451",【民視 娘家】大紅麴 膠囊 30粒 (7-11)取貨免運,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gc68gkx5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 優品購健康,"$ 2,750",【優品購健康 UPgo】娘家 大紅麴 膠囊 30顆,"['活動\n萊爾富 $99 限量免運', '']",https://www.findprice.com.tw/go/gcas7yvf/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 專品藥局,"$ 2,451",民視 娘家 大紅麴 膠囊 30粒 專品藥局【2011418】,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/g76wfasp/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 杏一健康生活館,"$ 2,451",[最低$2271/盒]娘家 大紅麴膠囊(30粒/盒)【杏一】,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/g88wt74s/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,momo購物網,"$ 30,960",【娘家官方直營】娘家大紅麴十二盒(30粒/盒),"['活動\n今日限定 日用婦幼日 瘋搶3折up', '']",https://www.findprice.com.tw/go/gvb82ib8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 憨吉小舖,"$ 2,451",【實體藥局|公司貨】娘家 大紅麴膠囊 (30粒/盒) 憨吉小舖,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gtz5y96u/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 安博氏健康生活館,"$ 2,451",安博氏 民視 娘家大紅麴 (30粒/盒) 榮獲國家健康食品認證,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gssvpgpg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 祐榮健康久久,"$ 2,270",民視娘家大紅麴 膠囊 30顆/盒《全月刷樂天卡滿$5000再享10%回饋》,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/ghqhgasv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 健人館,"$ 2,451",娘家大紅麴 30粒/盒*健人館*【一盒】《刷樂天卡滿$5000再享10%回饋》,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gb4ymxbg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,蝦皮商城 - 美麗人生連鎖藥局網路藥妝館,"$ 2,450",娘家大紅麴膠囊 30粒/盒 (健康食品雙功效認證)【美麗人生連鎖藥局網路藥妝館】,"['活動\n下單抽蘋果萬元禮', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g58cg4sm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 天妍,"$ 4,644",娘家大紅麴30粒x2盒,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gnxpd8gn/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 光點藥局,"$ 2,450",娘家 大紅麴 (30粒/盒)｜光點藥局 2010740,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gz7w76e4/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,momo購物網,"$ 12,900",【娘家官方直營】娘家大紅麴五盒組(30粒/盒),"['', '']",https://www.findprice.com.tw/go/gy3ujm32/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 均福藥局,"$ 2,451",【民視 娘家】大紅麴 膠囊 30粒 (7-11)取貨免運,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gc68gkx5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 優品購健康,"$ 2,750",【優品購健康 UPgo】娘家 大紅麴 膠囊 30顆,"['', '']",https://www.findprice.com.tw/go/gcas7yvf/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 專品藥局,"$ 2,451",民視 娘家 大紅麴 膠囊 30粒 專品藥局【2011418】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g76wfasp/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 杏一健康生活館,"$ 2,451",[最低$2271/盒]娘家 大紅麴膠囊(30粒/盒)【杏一】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g88wt74s/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 安博氏健康生活館,"$ 2,450",安博氏 民視 娘家大紅麴 (30粒/盒) 榮獲國家健康食品認證,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gssvpgpg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 憨吉小舖,"$ 2,451",【實體藥局|公司貨】娘家 大紅麴膠囊 (30粒/盒) 憨吉小舖,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gtz5y96u/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 祐榮健康久久,"$ 2,270",民視娘家大紅麴 膠囊 30顆/盒《全月刷樂天卡滿$5000再享10%回饋》,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/ghqhgasv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,momo購物網,"$ 30,906",【娘家官方直營】娘家大紅麴十二盒(30粒/盒),"['', '']",https://www.findprice.com.tw/go/gvb82ib8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 健人館,"$ 2,451",娘家大紅麴 30粒/盒*健人館*【一盒】《刷樂天卡滿$5000再享10%回饋》,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gb4ymxbg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,蝦皮商城 - 美麗人生連鎖藥局網路藥妝館,"$ 2,450",娘家大紅麴膠囊 30粒/盒 (健康食品雙功效認證)【美麗人生連鎖藥局網路藥妝館】,"['活動\n7.7夏日免運節-商城85折，全站滿額送', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g58cg4sm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 天妍,"$ 4,644",娘家大紅麴30粒x2盒,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gnxpd8gn/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,SuperBuy市集,"$ 4,644",娘家大紅麴膠囊2盒9折,"['', '']",https://www.findprice.com.tw/go/gbw9qfq5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,7-ELEVEN線上購物中心,"$ 4,644",【娘家】大紅麴30粒x2盒,"['', '']",https://www.findprice.com.tw/go/g5nbcnfw/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,蝦皮商城 - 富康活力藥局,"$ 2,580",娘家 益生菌60包/入 娘家大紅麴30顆/盒 《現貨》乳酸菌 紅麴 【富康活力藥局】,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gwtztdgy/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,momo摩天商城 - 杏一健康生活館,"$ 7,740",娘家 大紅麴膠囊 (30粒/ 盒，三盒特規組 ) 【杏一】(保健),"['', '']",https://www.findprice.com.tw/go/g7ivxprh/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩購物中心,"$ 4,644",【官方直營】娘家大紅麴x2,"['', '']",https://www.findprice.com.tw/go/g5x5g4tq/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,7-ELEVEN線上購物中心,"$ 4,644",【娘家】大紅麴30粒x2盒,"['', '']",https://www.findprice.com.tw/go/gy5aaymm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,friDay購物,"$ 4,644",娘家大紅麴2盒組 美鳳有約推薦,"['活動\n8周年生日慶，最高回饋50%', '']",https://www.findprice.com.tw/go/g3aq76gs/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 健康優購網,"$ 4,644",娘家大紅麴膠囊2盒(原廠供貨),"['活動\n萊爾富 $99 限量免運', '']",https://www.findprice.com.tw/go/geuh6izx/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,蝦皮商城 - 健康優購網,"$ 4,944",【民視】娘家大紅麴膠囊,"['活動\n6.18 必搶超強優惠', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gffvq3ad/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 健康優購網,"$ 4,644",娘家大紅麴膠囊2盒(原廠供貨),"['', '']",https://www.findprice.com.tw/go/geuh6izx/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,蝦皮商城 - 健康優購網,"$ 4,944",【民視】娘家大紅麴膠囊,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gffvq3ad/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,ETMall東森購物網,"$ 4,644",【娘家】大紅麴二盒組(30粒/盒),"['', '']",https://www.findprice.com.tw/go/g6kxdq7i/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,Her森森購物網,"$ 4,644",【娘家】大紅麴二盒組(30粒/盒),"['', '']",https://www.findprice.com.tw/go/gb6s52yb/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 衛立兒生活館,"$ 4,643",娘家大紅麴30粒x2盒★衛立兒生活館★,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/g4wf4ckz/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 衛立兒生活館,"$ 4,643",娘家大紅麴30粒x2盒［衛立兒生活館］,"['活動\n萊爾富 $99 限量免運', '']",https://www.findprice.com.tw/go/g52k34ai/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 健人館,"$ 4,644",娘家大紅麴 30粒/盒*健人館*【兩盒】,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/g7nhyfkh/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 愛兒麗婦幼用品,"$ 4,643",娘家大紅麴30粒x2盒★愛兒麗婦幼用品★,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gfce4ivt/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 元康藥局,"$ 4,542",2盒組 娘家- 大紅麴（30粒/盒）元氣健康館,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gt25s5t5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,蝦皮商城 - 立赫藥局Hello Pharmacy,"$ 2,451",娘家 大紅麴 膠囊 30粒/盒 調節血脂 調節血糖 有助降低血清中膽固醇 三酸甘油酯 公司貨【立赫藥局】,"['活動\n6.18 必搶超強優惠', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gbi7y9kd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 衛立兒生活館,"$ 4,643",娘家大紅麴30粒x2盒★衛立兒生活館★,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g4wf4ckz/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 衛立兒生活館,"$ 4,643",娘家大紅麴30粒x2盒［衛立兒生活館］,"['', '']",https://www.findprice.com.tw/go/g52k34ai/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 愛兒麗婦幼用品,"$ 4,643",娘家大紅麴30粒x2盒★愛兒麗婦幼用品★,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gfce4ivt/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 健人館,"$ 4,644",娘家大紅麴 30粒/盒*健人館*【兩盒】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g7nhyfkh/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 元康藥局,"$ 4,542",2盒組 娘家- 大紅麴（30粒/盒）元氣健康館,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gt25s5t5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,蝦皮商城 - 立赫藥局Hello Pharmacy,"$ 2,451",娘家 大紅麴 膠囊 30粒/盒 調節血脂 調節血糖 有助降低血清中膽固醇 三酸甘油酯 公司貨【立赫藥局】,"['活動\n7.7夏日免運節-商城85折，全站滿額送', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gbi7y9kd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,ETMall東森購物網,"$ 4,920",【娘家】大紅麴1盒+明適保1盒 優惠組,"['', '']",https://www.findprice.com.tw/go/g2n8ejw5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,Her森森購物網,"$ 4,920",【娘家】大紅麴1盒+明適保1盒 優惠組,"['', '']",https://www.findprice.com.tw/go/gvf6ife4/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 安康藥妝,"$ 4,299",娘家 大紅麴膠囊30入x2盒｜公司貨-原廠授權之銷售通路｜全店滿2000領卷享95折,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gqjb82km/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,momo摩天商城 - 杏一健康生活館,"$ 7,740",娘家 大紅麴膠囊 (30粒/ 盒，三盒特規組 ) 【杏一】(保健),"['', '']",https://www.findprice.com.tw/go/g7ivxprh/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 祐榮健康久久,"$ 4,386",民視娘家大紅麴 膠囊 30顆/盒x『2盒』《全月刷樂天卡滿$5000再享10%回饋》,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/ggty3fpd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 專品藥局,"$ 4,644",(2入特惠組) 民視 娘家 大紅麴 膠囊 30粒X2盒 專品藥局【2012556】,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gsh4cekm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 專品藥局,"$ 4,644",(2入特惠組) 民視 娘家 大紅麴 膠囊 30粒X2盒 專品藥局【2012556】,"['活動\n618最下殺 美妝 / 保健 / 美食 / 寵物', '']",https://www.findprice.com.tw/go/gs3caspz/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 健康優購網,"$ 6,811",娘家大紅麴膠囊3盒組,"['活動\n618最下殺 美妝 / 保健 / 美食 / 寵物', '']",https://www.findprice.com.tw/go/gipprp3c/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 天妍,"$ 6,811",娘家大紅麴30粒x3盒,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/grv5a8eq/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,博客來,"$ 6,811",娘家大紅麴30粒x3盒,"['', '']",https://www.findprice.com.tw/go/gbsbgyj7/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,蝦皮商城 - 專品藥局,"$ 1,350",娘家大紅麴 娘家益生菌 娘家滴雞精 娘家益生菌順暢有酵強效版PLUS 娘家好茯敏 原廠公司貨 健康食品 專品藥局,"['活動\n7.7夏日免運節-商城85折，全站滿額送', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g2umfcgk/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 安康藥妝,"$ 4,299",娘家 大紅麴膠囊30入x2盒｜公司貨-原廠授權之銷售通路｜全店滿2000領卷享95折,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gqjb82km/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 祐榮健康久久,"$ 4,386",民視娘家大紅麴 膠囊 30顆/盒x『2盒』《全月刷樂天卡滿$5000再享10%回饋》,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/ggty3fpd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 專品藥局,"$ 4,644",(2入特惠組) 民視 娘家 大紅麴 膠囊 30粒X2盒 專品藥局【2012556】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gsh4cekm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 專品藥局,"$ 4,644",(2入特惠組) 民視 娘家 大紅麴 膠囊 30粒X2盒 專品藥局【2012556】,"['', '']",https://www.findprice.com.tw/go/gs3caspz/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 健康優購網,"$ 6,811",娘家大紅麴膠囊3盒組,"['', '']",https://www.findprice.com.tw/go/gipprp3c/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 天妍,"$ 6,811",娘家大紅麴30粒x3盒,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/grv5a8eq/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,博客來,"$ 6,811",娘家大紅麴30粒x3盒,"['', '']",https://www.findprice.com.tw/go/g58264kh/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,博客來,"$ 6,811",娘家大紅麴30粒x3盒,"['', '']",https://www.findprice.com.tw/go/g5iphu3w/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,博客來,"$ 6,811",娘家大紅麴30粒x3盒,"['', '']",https://www.findprice.com.tw/go/g3gqtm7c/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 信男藥局,"$ 2,451",娘家大紅麴 30粒/盒 【單盒】95折 點數5倍送,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gdnrx5c8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,7-ELEVEN線上購物中心,"$ 6,811",【娘家】大紅麴30粒x3盒,"['', '']",https://www.findprice.com.tw/go/gpmxzfi5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 信男藥局,"$ 2,451",娘家大紅麴 30粒/盒 【單盒】95折 點數5倍送,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gdnrx5c8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,7-ELEVEN線上購物中心,"$ 6,811",【娘家】大紅麴30粒x3盒,"['', '']",https://www.findprice.com.tw/go/gsfy7ckr/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩購物中心,"$ 6,811",【官方直營】娘家大紅麴x3盒,"['', '']",https://www.findprice.com.tw/go/gidautpm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,friDay購物,"$ 6,811",娘家大紅麴3盒組 美鳳有約推薦,"['活動\n8周年生日慶，最高回饋50%', '']",https://www.findprice.com.tw/go/gqi5sism/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 全球藥局,"$ 2,451",娘家 大紅麴膠囊30粒【3入更優惠🔥過年送禮】全球藥局,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gy9up36u/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,蝦皮購物 - yong9092,$ 899,台灣現貨📣📣【6.3超殺特價】📣 免運 最新效期 娘家大紅麴膠囊(30粒/盒),"['活動\n百萬現金帶回家', '']",https://www.findprice.com.tw/go/git9iz5s/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 全球藥局,"$ 2,451",娘家 大紅麴膠囊30粒【3入更優惠🔥過年送禮】全球藥局,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gy9up36u/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,iQueen 愛女人購物網,"$ 6,880",【娘家】大紅麴30粒/盒*3,"['', '']",https://www.findprice.com.tw/go/ge6ud6ei/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,蝦皮商城 - 康是美Cosmed,"$ 6,811",娘家大紅麴（30粒/盒x3盒組）,"['活動\n天天蝦幣超值兌', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gnvh864g/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,蝦皮商城 - 康是美Cosmed,"$ 6,811",娘家大紅麴（30粒/盒x3盒組）,"['活動\n7.7夏日免運節-商城85折，全站滿額送', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gnvh864g/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,ETMall東森購物網,"$ 6,811",【娘家】大紅麴三盒組(30粒/盒),"['', '']",https://www.findprice.com.tw/go/g44gnx3u/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,Her森森購物網,"$ 6,811",【娘家】大紅麴三盒組(30粒/盒),"['', '']",https://www.findprice.com.tw/go/gp36ggcg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 衛立兒生活館,"$ 6,700",娘家大紅麴30粒/盒X3盒★衛立兒生活館★,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gbshes9g/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 安康藥妝,"$ 6,699",娘家 大紅麴膠囊 30入/盒x3盒(組合價),"['活動\n萊爾富 $99 限量免運', '']",https://www.findprice.com.tw/go/gbkjvbey/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 愛兒麗婦幼用品,"$ 6,700",娘家大紅麴30粒/盒X3盒★愛兒麗婦幼用品★,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gysgqz6v/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 丞陽健康生活館,"$ 6,659",娘家大紅麴30粒/盒 X3盒◆丞陽健康生活館◆,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gwpbshiv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 健人館,"$ 6,811",娘家大紅麴 30粒/盒*健人館*【三盒】,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/g6kjdnbc/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 杏一健康生活館,"$ 6,811",娘家 大紅麴(30粒/3入/特規組)【杏一】,"['活動\n萊爾富 $99 限量免運', '']",https://www.findprice.com.tw/go/gxfaw78i/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 民雄久久藥局,"$ 6,800",實體藥局✅(3盒)娘家 大紅麴 膠囊 30粒/盒,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/g9w9w5ur/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 杏一健康生活館,"$ 6,800",娘家大紅麴30粒3入/組 特規組 娘家系列產品【杏一】,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gvh4ydq9/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩購物中心,"$ 7,061",娘家大紅麴3盒組(30粒/盒) 原廠公司貨,"['活動\n100%回饋 天天15:00準時開搶', '']",https://www.findprice.com.tw/go/g37qs5j5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 光點藥局,"$ 6,810",娘家 大紅麴 (30粒/3盒)｜光點藥局 2010740,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gujpzbkd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 均福藥局,"$ 6,811",【民視 娘家】大紅麴 膠囊 30粒X3盒 (7-11)取貨免運,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gp7smbnj/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 專品藥局,"$ 6,811",民視 娘家 大紅麴 膠囊 30粒X3盒 專品藥局【2012557】,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/g3e6sdym/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,蝦皮商城 - 蝦皮超市,"$ 2,459",娘家 大紅麴膠囊 30粒/盒 國家健康食品認證 雙功效認證 調節血脂 調節血糖 現貨 蝦皮直送,"['活動\n蝦皮6.18 全民年中慶', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g788s7ux/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 祐榮健康久久,"$ 6,580",民視娘家大紅麴 膠囊 30顆/盒x『3盒』《全月刷樂天卡滿$5000再享10%回饋》,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gckvheuz/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 專品藥局,"$ 6,811",(3入特惠組) 民視 娘家 大紅麴 膠囊 30粒X3盒 專品藥局【2012557】,"['活動\n今日爆殺-特殺搶先報', '']",https://www.findprice.com.tw/go/gudipf2q/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,蝦皮商城 - 大樹健康購物網(大樹藥局線上),"$ 6,811",娘家 大紅麴 30粒x3盒/組 大樹,"['活動\n7.7夏日免運節-商城85折，全站滿額送', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gkjvbydg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 衛立兒生活館,"$ 6,700",娘家大紅麴30粒/盒X3盒★衛立兒生活館★,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gbshes9g/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 愛兒麗婦幼用品,"$ 6,700",娘家大紅麴30粒/盒X3盒★愛兒麗婦幼用品★,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gysgqz6v/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 安康藥妝,"$ 6,699",娘家 大紅麴膠囊 30入/盒x3盒(組合價),"['', '']",https://www.findprice.com.tw/go/gbkjvbey/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 丞陽健康生活館,"$ 6,659",娘家大紅麴30粒/盒 X3盒◆丞陽健康生活館◆,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gwpbshiv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 健人館,"$ 6,811",娘家大紅麴 30粒/盒*健人館*【三盒】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g6kjdnbc/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 杏一健康生活館,"$ 6,811",娘家 大紅麴(30粒/3入/特規組)【杏一】,"['', '']",https://www.findprice.com.tw/go/gxfaw78i/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 民雄久久藥局,"$ 6,800",實體藥局✅(3盒)娘家 大紅麴 膠囊 30粒/盒,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g9w9w5ur/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 杏一健康生活館,"$ 6,800",娘家大紅麴30粒3入/組 特規組 娘家系列產品【杏一】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gvh4ydq9/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩購物中心,"$ 7,061",娘家大紅麴3盒組(30粒/盒) 原廠公司貨,"['', '']",https://www.findprice.com.tw/go/g37qs5j5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 光點藥局,"$ 6,810",娘家 大紅麴 (30粒/3盒)｜光點藥局 2010740,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gujpzbkd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 均福藥局,"$ 6,811",【民視 娘家】大紅麴 膠囊 30粒X3盒 (7-11)取貨免運,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gp7smbnj/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 專品藥局,"$ 6,811",民視 娘家 大紅麴 膠囊 30粒X3盒 專品藥局【2012557】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g3e6sdym/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,蝦皮商城 - 蝦皮超市,"$ 2,459",娘家 大紅麴膠囊 30粒/盒 國家健康食品認證 雙功效認證 調節血脂 調節血糖 現貨 蝦皮直送,"['活動\n7.7夏日免運節-商城85折，全站滿額送', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g788s7ux/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 祐榮健康久久,"$ 6,580",民視娘家大紅麴 膠囊 30顆/盒x『3盒』《全月刷樂天卡滿$5000再享10%回饋》,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gckvheuz/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,PChome 24h購物,"$ 6,811",★Pi錢包刷Pi卡最高11%娘家大紅麴膠囊(30粒裝/盒)x3盒【官方直營】,"['', '']",https://www.findprice.com.tw/go/g8qpp96a/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 專品藥局,"$ 6,811",(3入特惠組) 民視 娘家 大紅麴 膠囊 30粒X3盒 專品藥局【2012557】,"['', '']",https://www.findprice.com.tw/go/gudipf2q/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,ihergo愛合購,$ 67,免運!【娘家】大紅麴 30粒/盒 (3盒90粒，每粒66.7元),"['', '']",https://www.findprice.com.tw/go/gjz582q9/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩購物中心,"$ 4,644",【滿3000登記送300購物金】【官方直營】娘家大紅麴x2,"['活動\n最強618', '']",https://www.findprice.com.tw/go/g5x5g4tq/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 信男藥局,"$ 6,811",娘家大紅麴 30粒/盒 【3盒】88折 點數5倍送,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gdi52ece/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩購物中心,"$ 6,811",【滿3000登記送300購物金】【官方直營】娘家大紅麴x3盒,"['活動\n最強618', '']",https://www.findprice.com.tw/go/gidautpm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,PChome 24h購物,"$ 6,811",★滿額登記送1000p幣娘家大紅麴膠囊(30粒裝/盒)x3盒【官方直營】,"['', '']",https://www.findprice.com.tw/go/g8qpp96a/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,PChome 商店街 - 微笑藥局 Smile Pharmacy 04-22432699,"$ 2,200",【微笑藥局】娘家大紅麴(30顆),"['', '']",https://www.findprice.com.tw/go/g86gsx7s/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,PChome 24h購物,"$ 2,451",★22週年▲狂樂購物節▲娘家大紅麴 30粒裝/盒【官方直營】,"['', '']",https://www.findprice.com.tw/go/gj7y3ufc/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,PChome 24h購物,"$ 4,644",★滿額登記送1000p幣娘家大紅麴膠囊 30粒裝 x 2盒【官方直營】,"['', '']",https://www.findprice.com.tw/go/g2uzfitz/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,PChome 24h購物,"$ 8,880",娘家大紅麴膠囊 30粒裝/盒 x4盒【官方直營】,"['', '']",https://www.findprice.com.tw/go/gr3iv9s7/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 信男藥局,"$ 6,811",娘家大紅麴 30粒/盒 【3盒】88折 點數5倍送,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gdi52ece/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,PChome 24h購物,"$ 2,451",娘家大紅麴 30粒裝/盒【官方直營】,"['', '']",https://www.findprice.com.tw/go/gb8gyvzt/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,PChome 24h購物,"$ 4,644",★Pi錢包刷Pi卡最高11%娘家大紅麴膠囊 30粒裝 x 2盒【官方直營】,"['', '']",https://www.findprice.com.tw/go/gs38s58u/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,Her森森購物網,"$ 11,112",【娘家】大紅麴五盒組(30粒/盒),"['', '']",https://www.findprice.com.tw/go/gy3nrtbk/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,ETMall東森購物網,"$ 11,112",【娘家】大紅麴五盒組(30粒/盒),"['', '']",https://www.findprice.com.tw/go/gjime5tq/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩超級商城 - 健康優購網,"$ 13,313",娘家大紅麴膠囊6盒組,"['活動\n今日爆殺-特殺搶先報', '']",https://www.findprice.com.tw/go/ggc68asm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 天妍,"$ 13,330",娘家大紅麴30粒x6盒,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gzsd3c7v/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,博客來,"$ 14,700",娘家大紅麴30粒x6盒,"['', '']",https://www.findprice.com.tw/go/g2upjtjp/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,博客來,"$ 14,700",娘家大紅麴30粒x6盒,"['', '']",https://www.findprice.com.tw/go/gjx7wtpp/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,博客來,"$ 14,700",娘家大紅麴30粒x6盒,"['', '']",https://www.findprice.com.tw/go/gmd46qrr/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,7-ELEVEN線上購物中心,"$ 14,700",【娘家】大紅麴30粒x6盒,"['', '']",https://www.findprice.com.tw/go/grhkzbg8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,PChome 24h購物,"$ 11,112",娘家 大紅麴膠囊(30粒/盒) x5盒【官方直營】,"['', '']",https://www.findprice.com.tw/go/g64nzfyj/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,PChome 商店街 - 微笑藥局 Smile Pharmacy 04-22432699,"$ 2,200",【微笑藥局】娘家大紅麴(30顆),"['', '']",https://www.findprice.com.tw/go/g86gsx7s/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩超級商城 - 健康優購網,"$ 13,313",娘家大紅麴膠囊6盒組,"['', '']",https://www.findprice.com.tw/go/ggc68asm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 天妍,"$ 13,330",娘家大紅麴30粒x6盒,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gzsd3c7v/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,博客來,"$ 14,700",娘家大紅麴30粒x6盒,"['', '']",https://www.findprice.com.tw/go/gj7izmf4/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,博客來,"$ 14,700",娘家大紅麴30粒x6盒,"['', '']",https://www.findprice.com.tw/go/gurrv7sd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,博客來,"$ 14,700",娘家大紅麴30粒x6盒,"['', '']",https://www.findprice.com.tw/go/geivbktm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,博客來,"$ 14,700",娘家大紅麴30粒x6盒,"['', '']",https://www.findprice.com.tw/go/g5q58and/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,7-ELEVEN線上購物中心,"$ 14,700",【娘家】大紅麴30粒x6盒,"['', '']",https://www.findprice.com.tw/go/g9gitdir/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,蝦皮商城 - 健康優購網,"$ 13,313",【民視】娘家大紅麴膠囊6盒組,"['活動\n7.7夏日免運節-商城85折，全站滿額送', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gnimg7j8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,Yahoo奇摩購物中心,"$ 15,480",【官方直營】娘家大紅麴x6盒,"['', '']",https://www.findprice.com.tw/go/g78akfst/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,friDay購物,"$ 13,760",娘家大紅麴6盒組 美鳳有約推薦,"['活動\n8周年生日慶，最高回饋50%', '']",https://www.findprice.com.tw/go/gt5gkrhg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,ETMall東森購物網,"$ 15,480",【娘家】大紅麴六盒組(30粒/盒),"['', '']",https://www.findprice.com.tw/go/gcw3gk7g/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,Her森森購物網,"$ 15,480",【娘家】大紅麴六盒組(30粒/盒),"['', '']",https://www.findprice.com.tw/go/gm3g6gwf/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,ETMall東森購物網,"$ 30,960",【娘家】大紅麴12盒組(30粒/盒),"['', '']",https://www.findprice.com.tw/go/g3sd2stm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,Her森森購物網,"$ 30,960",【娘家】大紅麴12盒組(30粒/盒),"['', '']",https://www.findprice.com.tw/go/gss8fma8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 愛兒麗婦幼用品,"$ 13,380",娘家大紅麴30粒/盒X6盒★愛兒麗婦幼用品★,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gvzdkx38/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 衛立兒生活館,"$ 13,380",娘家大紅麴30粒/盒X6盒★衛立兒生活館★,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gxx7g48i/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,PChome 24h購物,"$ 12,500",娘家 大紅麴膠囊(30粒裝/盒) x5盒【官方直營】,"['', '']",https://www.findprice.com.tw/go/g64nzfyj/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,樂天市場 - 安康藥妝,"$ 24,600",揪團下殺一盒只要2050元｜娘家大紅麴膠囊 30入/盒X12盒｜公司貨-原廠授權之銷售通路《刷樂天卡滿$5000賺10%點數回饋》,"['活動\n樂天618年中慶', '']",https://www.findprice.com.tw/go/gr5krx5u/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 愛兒麗婦幼用品,"$ 13,380",娘家大紅麴30粒/盒X6盒★愛兒麗婦幼用品★,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gvzdkx38/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 衛立兒生活館,"$ 13,380",娘家大紅麴30粒/盒X6盒★衛立兒生活館★,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gxx7g48i/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,PChome 24h購物,"$ 15,481",★Pi錢包刷Pi卡最高11%娘家大紅麴膠囊 30粒裝/盒 x6盒【官方直營】,"['', '']",https://www.findprice.com.tw/go/g2aaa8y3/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
+findprice,娘家大紅麴,樂天市場 - 安康藥妝,"$ 24,600",揪團下殺一盒只要2050元｜娘家大紅麴膠囊 30入/盒X12盒｜公司貨-原廠授權之銷售通路《刷樂天卡滿$5000賺10%點數回饋》,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gr5krx5u/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
 findprice,娘家大紅麴,PChome 商店街 - 莘莘藥局 美容藥妝店,"$ 24,000",(買10送1)娘家大紅麴30粒,"['', '']",https://www.findprice.com.tw/go/g5ca4uhk/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,Yahoo奇摩購物中心,"$ 15,480",【滿3000登記送300購物金】【官方直營】娘家大紅麴x6盒,"['活動\n最強618 登記送300購物金', '']",https://www.findprice.com.tw/go/g78akfst/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,娘家大紅麴,PChome 24h購物,"$ 15,481",★滿額登記送1000p幣娘家大紅麴膠囊 30粒裝/盒 x6盒【官方直營】,"['', '']",https://www.findprice.com.tw/go/g2aaa8y3/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E5%A4%A7%E7%B4%85%E9%BA%B4
-findprice,格瑞空氣淨化清淨機,Yahoo奇摩購物中心,"$ 22,800",格瑞空氣清淨機-白 / SNQ國家品質標章防疫認證產品,"['活動\n最強618', '']",https://www.findprice.com.tw/go/gd7dq3sy/?s=0&t=1&f=d&k=%E6%A0%BC%E7%91%9E%20%E7%A9%BA%E6%B0%A3%20%E6%B7%A8%E5%8C%96%20%E6%B8%85%E6%B7%A8%E6%A9%9F
-findprice,格瑞空氣淨化清淨機,Yahoo奇摩購物中心,"$ 22,800",格瑞空氣清淨機-灰 / SNQ國家品質標章防疫認證產品,"['活動\n最強618', '']",https://www.findprice.com.tw/go/g875e67q/?s=0&t=1&f=d&k=%E6%A0%BC%E7%91%9E%20%E7%A9%BA%E6%B0%A3%20%E6%B7%A8%E5%8C%96%20%E6%B8%85%E6%B7%A8%E6%A9%9F
-findprice,格瑞空氣淨化清淨機,Yahoo奇摩超級商城 - 健康優購網,"$ 22,800",格瑞空氣淨化清淨機-白色/SNQ國家品質標章 防疫認證產品,"['活動\n萊爾富 $99 限量免運', '']",https://www.findprice.com.tw/go/g46uvbst/?s=0&t=1&f=d&k=%E6%A0%BC%E7%91%9E%20%E7%A9%BA%E6%B0%A3%20%E6%B7%A8%E5%8C%96%20%E6%B8%85%E6%B7%A8%E6%A9%9F
-findprice,格瑞空氣淨化清淨機,Yahoo奇摩超級商城 - 健康優購網,"$ 22,800",格瑞空氣淨化清淨機-鐵灰色/SNQ國家品質標章 防疫認證產品,"['活動\n萊爾富 $99 限量免運', '']",https://www.findprice.com.tw/go/gip3uj7c/?s=0&t=1&f=d&k=%E6%A0%BC%E7%91%9E%20%E7%A9%BA%E6%B0%A3%20%E6%B7%A8%E5%8C%96%20%E6%B8%85%E6%B7%A8%E6%A9%9F
-findprice,格瑞空氣淨化清淨機,Yahoo奇摩超級商城 - 特力屋,"$ 34,800",格瑞 SHEN 恆壓電融式空氣清淨機(終身零耗材)(時尚版鐵灰),"['活動\n萊爾富 $99 限量免運', '']",https://www.findprice.com.tw/go/gnnqfkam/?s=0&t=1&f=d&k=%E6%A0%BC%E7%91%9E%20%E7%A9%BA%E6%B0%A3%20%E6%B7%A8%E5%8C%96%20%E6%B8%85%E6%B7%A8%E6%A9%9F
-findprice,格瑞空氣淨化清淨機,蝦皮商城 - 健康優購網,"$ 22,800",格瑞空氣淨化清淨機/SNQ國家品質標章 防疫認證產品(5/27開始出貨),"['活動\n狂灑商城券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gh4y9c68/?s=0&t=1&f=d&k=%E6%A0%BC%E7%91%9E%20%E7%A9%BA%E6%B0%A3%20%E6%B7%A8%E5%8C%96%20%E6%B8%85%E6%B7%A8%E6%A9%9F
-findprice,格瑞空氣淨化清淨機,蝦皮購物 - mia925705,"$ 30,000",格瑞空氣清淨機（不需耗材）,"['活動\n百萬現金帶回家', '']",https://www.findprice.com.tw/go/gdyfaqp5/?s=0&t=1&f=d&k=%E6%A0%BC%E7%91%9E%20%E7%A9%BA%E6%B0%A3%20%E6%B7%A8%E5%8C%96%20%E6%B8%85%E6%B7%A8%E6%A9%9F
+findprice,格瑞空氣清淨機,Yahoo奇摩購物中心,"$ 22,800",格瑞空氣清淨機-白 / SNQ國家品質標章防疫認證產品,"['', '']",https://www.findprice.com.tw/go/gd7dq3sy/?s=0&t=1&f=d&k=%E6%A0%BC%E7%91%9E%20%E7%A9%BA%E6%B0%A3%20%E6%B8%85%E6%B7%A8%E6%A9%9F
+findprice,格瑞空氣清淨機,Yahoo奇摩購物中心,"$ 22,800",格瑞空氣清淨機-灰 / SNQ國家品質標章防疫認證產品,"['', '']",https://www.findprice.com.tw/go/g875e67q/?s=0&t=1&f=d&k=%E6%A0%BC%E7%91%9E%20%E7%A9%BA%E6%B0%A3%20%E6%B8%85%E6%B7%A8%E6%A9%9F
+findprice,格瑞空氣清淨機,Yahoo奇摩超級商城 - 健康優購網,"$ 22,800",格瑞空氣淨化清淨機-白色/SNQ國家品質標章 防疫認證產品,"['', '']",https://www.findprice.com.tw/go/g46uvbst/?s=0&t=1&f=d&k=%E6%A0%BC%E7%91%9E%20%E7%A9%BA%E6%B0%A3%20%E6%B8%85%E6%B7%A8%E6%A9%9F
+findprice,格瑞空氣清淨機,Yahoo奇摩超級商城 - 健康優購網,"$ 22,800",格瑞空氣淨化清淨機-鐵灰色/SNQ國家品質標章 防疫認證產品,"['', '']",https://www.findprice.com.tw/go/gip3uj7c/?s=0&t=1&f=d&k=%E6%A0%BC%E7%91%9E%20%E7%A9%BA%E6%B0%A3%20%E6%B8%85%E6%B7%A8%E6%A9%9F
+findprice,格瑞空氣清淨機,Yahoo奇摩超級商城 - 特力屋,"$ 34,800",格瑞 SHEN 恆壓電融式空氣清淨機(終身零耗材)(時尚版鐵灰),"['', '']",https://www.findprice.com.tw/go/gnnqfkam/?s=0&t=1&f=d&k=%E6%A0%BC%E7%91%9E%20%E7%A9%BA%E6%B0%A3%20%E6%B8%85%E6%B7%A8%E6%A9%9F
+findprice,格瑞空氣清淨機,蝦皮購物 - mia925705,"$ 30,000",格瑞空氣清淨機（不需耗材）,"['', '']",https://www.findprice.com.tw/go/gdyfaqp5/?s=0&t=1&f=d&k=%E6%A0%BC%E7%91%9E%20%E7%A9%BA%E6%B0%A3%20%E6%B8%85%E6%B7%A8%E6%A9%9F
+findprice,格瑞空氣清淨機,蝦皮商城 - 健康優購網,"$ 22,800",格瑞空氣淨化清淨機/SNQ國家品質標章 防疫認證產品(5/27開始出貨),"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gh4y9c68/?s=0&t=1&f=d&k=%E6%A0%BC%E7%91%9E%20%E7%A9%BA%E6%B0%A3%20%E6%B8%85%E6%B7%A8%E6%A9%9F
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 屈臣氏Watsons,"$ 1,786",娘家滴雞精10入,"['', '']",https://www.findprice.com.tw/go/gg8gnt72/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,屈臣氏網路商店,"$ 1,786",娘家 娘家滴雞精10入,"['', '']",https://www.findprice.com.tw/go/gid86228/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,SuperBuy市集,"$ 1,786",娘家滴雞精10入1盒95折,"['', '']",https://www.findprice.com.tw/go/gx52wz7a/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,7-ELEVEN線上購物中心,"$ 1,786",【娘家】滴雞精 (一盒10入),"['', '']",https://www.findprice.com.tw/go/gfuheu3u/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo購物網,"$ 1,786",【娘家】嚴選冷凍滴雞精10入組,"['', '']",https://www.findprice.com.tw/go/gtdsvjjm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩購物中心,"$ 2,546",娘家常溫滴雞精16入,"['', '']",https://www.findprice.com.tw/go/gyrxp3e8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩購物中心,"$ 1,692",娘家冷凍滴雞精(坐月子.病後保養) 10包/盒,"['', '']",https://www.findprice.com.tw/go/gvsv33eg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,friDay購物,"$ 2,546",娘家常溫滴雞精16入/盒,"['活動\n8周年生日慶，最高回饋50%', '']",https://www.findprice.com.tw/go/g7fmtsim/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo購物網,"$ 1,786",【娘家】嚴選冷凍滴雞精 11入(娘家),"['', '']",https://www.findprice.com.tw/go/gn54ey3n/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 屈臣氏Watsons,"$ 3,116",娘家滴雞精20入,"['', '']",https://www.findprice.com.tw/go/gtvv3irh/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 健康優購網,"$ 2,952",娘家 滴雞精 (20入),"['', '']",https://www.findprice.com.tw/go/gmrhaaiv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩購物中心,"$ 2,546",娘家常溫滴雞精16入 (50ml/入),"['', '']",https://www.findprice.com.tw/go/gdqby3nd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 安康藥妝,"$ 2,399",娘家 常溫滴雞精(50mlX16包/盒),"['', '']",https://www.findprice.com.tw/go/gdybk322/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,屈臣氏網路商店,"$ 3,116",娘家 娘家滴雞精20入,"['', '']",https://www.findprice.com.tw/go/gw5u9a6u/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 橘子藥美麗,"$ 2,680",娘家 存元堂 滴雞精 滴鷄精 16入,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/ga6v2ued/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo購物網,"$ 4,590",【娘家】嚴選冷凍滴雞精 33入momo獨家雙盒組(65ml/包),"['', '']",https://www.findprice.com.tw/go/g5aqp7nx/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩購物中心,"$ 3,152",娘家冷凍滴雞精20入,"['', '']",https://www.findprice.com.tw/go/gx5ifizx/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo購物網,"$ 2,886",【娘家】嚴選冷凍滴雞精 20入組,"['', '']",https://www.findprice.com.tw/go/gsf8ibes/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 森活中西藥局,"$ 1,980",藥局💊現貨 娘家系列 常溫滴雞精 大紅麴 益生菌 好茯敏,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gvdy94n5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 仁仁保健藥妝,"$ 2,680",娘家 存元堂 滴雞精 滴鷄精 16入,"['', '']",https://www.findprice.com.tw/go/g3aid22w/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,7-ELEVEN線上購物中心,"$ 3,116",【娘家】滴雞精 (一盒20入),"['', '']",https://www.findprice.com.tw/go/gci7asz3/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,friDay購物,"$ 1,296",娘家熬滴雞精12入 美鳳有約.元氣加油站推薦,"['活動\n8周年生日慶，最高回饋50%', '']",https://www.findprice.com.tw/go/g4whayzb/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,SuperBuy市集,"$ 3,116",娘家滴雞精20入1盒95折,"['', '']",https://www.findprice.com.tw/go/gj7ndn3k/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo購物網,"$ 16,740",【娘家】嚴選優質滴雞精 120包超值組(娘家),"['', '']",https://www.findprice.com.tw/go/gau7yhym/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,SuperBuy市集,"$ 3,384",娘家滴雞精10入2盒9折,"['', '']",https://www.findprice.com.tw/go/gkv9qhe2/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo購物網,"$ 3,434",【娘家】常溫滴雞精12入2盒組(50ml/入),"['', '']",https://www.findprice.com.tw/go/gj58ecgn/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo購物網,"$ 3,836",【娘家】常溫滴雞精獨家28入雙盒組/50ml/入(週期購),"['', '']",https://www.findprice.com.tw/go/gix5ij5c/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo購物網,"$ 5,173",【娘家】常溫滴雞精12入3盒組(50ml/入),"['', '']",https://www.findprice.com.tw/go/gihntr7y/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 杏一健康生活館,"$ 3,636",娘家 常溫滴雞精12入 2盒特規組【杏一】,"['', '']",https://www.findprice.com.tw/go/grxpvbs9/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,friDay購物,"$ 4,824",娘家 常溫滴雞精16入/盒(兩盒組),"['活動\n8周年生日慶，最高回饋50%', '']",https://www.findprice.com.tw/go/gfc28cs3/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩購物中心,"$ 1,880",娘家 滴雞精(65ml/包 ，10入/盒) ，冷凍配送 【杏一】,"['', '']",https://www.findprice.com.tw/go/ggagg6ij/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo摩天商城 - 專品藥局,"$ 1,450",王朝 原味滴雞精 10包入 (低溫運送，同娘家、老協珍) 專品藥局【2007424】,"['', '']",https://www.findprice.com.tw/go/g5664a2n/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 專品藥局,"$ 2,880",王朝美麗四物滴雞精 20包入(低溫運送 同娘家、老協珍) 專品藥局【2009090】,"['', '']",https://www.findprice.com.tw/go/g62k9e6n/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩購物中心,$ 599,娘家廚房x來萬傳盛‧滴雞精水餃(25g*8入/盒，共3盒),"['', '']",https://www.findprice.com.tw/go/g84qjzxd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,SuperBuy市集,"$ 8,880",娘家滴雞精60入,"['', '']",https://www.findprice.com.tw/go/g48nfiv7/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,PChome 商店街 - 立赫藥局,"$ 1,862",娘家 存元堂滴雞精 50ml x12入 常溫 公司貨【立赫藥局】999999,"['', '']",https://www.findprice.com.tw/go/gm74aurx/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,博客來,"$ 1,786",娘家滴雞精10入,"['', '']",https://www.findprice.com.tw/go/gkm78cyz/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,博客來,"$ 1,786",娘家滴雞精10入,"['', '']",https://www.findprice.com.tw/go/g32vpcbv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,博客來,"$ 1,692",娘家冷凍滴雞精10包/65ml/包,"['', '']",https://www.findprice.com.tw/go/gyrfif8w/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,鮮拾,"$ 2,680",【娘家】常溫滴雞精16入,"['', '']",https://www.findprice.com.tw/go/gijd2np5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,博客來,"$ 1,786",娘家冷凍滴雞精10包/65ml/包,"['', '']",https://www.findprice.com.tw/go/gmhujzzf/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,大潤發網路購物中心,"$ 2,086",娘家常溫滴雞精50ml*12入,"['', '']",https://www.findprice.com.tw/go/g8ix3esz/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Her森森購物網,"$ 1,786",【娘家】冷凍滴雞精10入(65ml/入),"['', '']",https://www.findprice.com.tw/go/gsmde44w/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,ETMall東森購物網,"$ 1,786",【娘家】冷凍滴雞精10入(65ml/入),"['', '']",https://www.findprice.com.tw/go/giemt77m/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 屈臣氏Watsons,"$ 2,546",娘家常溫滴雞精16入,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g4a48cqh/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 屈臣氏Watsons,"$ 2,546",娘家常溫滴雞精16入,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g2e5gpiq/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 康是美Cosmed,"$ 2,680",娘家常溫滴雞精16入,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g3qv3wvm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,屈臣氏網路商店,"$ 2,546",娘家 娘家常溫滴雞精16入,"['', '']",https://www.findprice.com.tw/go/gt98ekjb/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 均福藥局,"$ 2,546",娘家-常溫滴雞精-16入/盒,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g3sy2fbv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 大潤發 RT-MART,"$ 2,086",娘家常溫滴雞精50mlX12入 【大潤發】,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gnmb4cnz/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,7-ELEVEN線上購物中心,"$ 2,546",【娘家】常溫滴雞精16入1盒組,"['', '']",https://www.findprice.com.tw/go/guxdijpb/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,鮮拾,"$ 3,280",【娘家】滴雞精65ml*20入,"['', '']",https://www.findprice.com.tw/go/gu2dnftd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,SuperBuy市集,"$ 2,546",娘家滴雞精16入1盒95折-常溫,"['', '']",https://www.findprice.com.tw/go/gfujhkvd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,friDay購物,"$ 2,680",【娘家】常溫滴雞精禮盒16包入,"['活動\n8周年生日慶，最高回饋50%', '']",https://www.findprice.com.tw/go/gekd4w9a/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,博客來,"$ 2,546",娘家常溫滴雞精16包/50ml/包,"['', '']",https://www.findprice.com.tw/go/g78qppz5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,博客來,"$ 2,546",娘家常溫滴雞精16包/50ml/包,"['', '']",https://www.findprice.com.tw/go/gh88g6nv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,博客來,"$ 2,546",娘家常溫滴雞精16包/50ml/包,"['', '']",https://www.findprice.com.tw/go/ghstz7e4/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,博客來,"$ 2,546",娘家常溫滴雞精16包/50ml/包,"['', '']",https://www.findprice.com.tw/go/g8w5w9sz/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 大樹健康購物網(大樹藥局線上),"$ 2,546",娘家 常溫滴雞精 12入/16入 大樹,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g4i94ekf/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 全球藥局,"$ 2,546",娘家 常溫滴雞精禮盒 16入 全球藥局,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g7eqxjxf/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Her森森購物網,"$ 2,546",娘家常溫滴雞精16入(50ml/入).,"['', '']",https://www.findprice.com.tw/go/gy5gijmv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,ETMall東森購物網,"$ 2,546",娘家常溫滴雞精16入(50ml/入).,"['', '']",https://www.findprice.com.tw/go/gca8andq/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 健康優購網,"$ 2,546",娘家 常溫滴雞精16入 (50ml/入),"['活動\n7.7夏日免運節-商城85折，全站滿額送', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g68g2e4g/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,ETMall東森購物網,"$ 2,546",【娘家】常溫滴雞精16入(50ml/入),"['', '']",https://www.findprice.com.tw/go/g2ix5shn/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Her森森購物網,"$ 2,546",【娘家】常溫滴雞精16入(50ml/入),"['', '']",https://www.findprice.com.tw/go/gcymhqb2/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 杏一健康生活館,"$ 2,680",娘家 常溫滴雞精 (16入/盒)【杏一】,"['活動\n7.7夏日免運節-商城85折，全站滿額送', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gq5ur964/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 禾藥局,"$ 2,680",禾藥局-娘家滴雞精禮盒50ml*16包入,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gt52nhwr/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo購物網,"$ 2,546",【娘家】常溫滴雞精 16入組(50ml/入),"['', '']",https://www.findprice.com.tw/go/g3nv9uf4/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - KICKICK藥妝婦嬰生活館,"$ 2,699",娘家 常溫滴雞精16入 - 045527,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/ga8nrhw7/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,博客來,"$ 2,952",娘家冷凍滴雞精20包/65ml/包,"['', '']",https://www.findprice.com.tw/go/gbyvzxpx/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,博客來,"$ 2,952",娘家冷凍滴雞精20包/65ml/包,"['', '']",https://www.findprice.com.tw/go/gfwbsrt9/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 康寶婦嬰健康生活館,"$ 2,546",娘家 滴雞精 低溫滴雞精 常溫滴雞精【限時優惠】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gee4nj9w/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,博客來,"$ 3,116",娘家冷凍滴雞精20包/65ml/包,"['', '']",https://www.findprice.com.tw/go/gqxtjbe4/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,7-ELEVEN線上購物中心,"$ 3,384",【娘家】滴雞精10入x2盒,"['', '']",https://www.findprice.com.tw/go/g9irzp9k/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 上好連鎖藥局,"$ 2,500",【娘家】滴雞精 50ml*16包/盒【上好連鎖藥局】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/guz5i7yh/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo摩天商城 - 杏一健康生活館,"$ 2,680",娘家 常溫滴雞精 (16入/盒)【杏一】(保健),"['', '']",https://www.findprice.com.tw/go/gm5cupv3/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 健康優購網,"$ 2,564",娘家 常溫滴雞精16入 (50ml/入) 原廠公司貨,"['', '']",https://www.findprice.com.tw/go/g8pmgteq/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 仁仁保健藥妝,"$ 2,680",娘家 存元堂 滴雞精 滴鷄精 16入 (50ML),"['活動\n7.7夏日免運節-商城85折，全站滿額送', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g4cktd88/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 春天藥局網路商城,"$ 2,545",【娘家】 常溫滴雞精16入 (50ml/入) 春天藥局,"['活動\n7.7夏日免運節-商城85折，全站滿額送', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gy5c8ubu/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo摩天商城 - 杏一健康生活館,"$ 1,880",娘家 滴雞精-冷凍版 (65ml/包 ，10入/盒) 【杏一】(保健),"['', '']",https://www.findprice.com.tw/go/gj9qmpfc/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo購物網,"$ 5,904",【娘家】嚴選優質冷凍滴雞精 40包(娘家),"['', '']",https://www.findprice.com.tw/go/girbnh6y/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Her森森購物網,"$ 3,116",【娘家】冷凍滴雞精20入(65ml/入),"['', '']",https://www.findprice.com.tw/go/gvpf2gaw/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,ETMall東森購物網,"$ 3,116",【娘家】冷凍滴雞精20入(65ml/入),"['', '']",https://www.findprice.com.tw/go/g72qbqr5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo購物網,"$ 3,116",【娘家】嚴選冷凍滴雞精 20入組(週期購),"['', '']",https://www.findprice.com.tw/go/gy7anmvt/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo購物網,"$ 8,880",【娘家】嚴選優質滴雞精 60包超值組,"['', '']",https://www.findprice.com.tw/go/gvtvjprb/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩購物中心,"$ 3,116",娘家冷凍滴雞精(坐月子.病後保養) 20包/盒,"['', '']",https://www.findprice.com.tw/go/gmr3ifcy/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo購物網,"$ 7,076",【娘家】常溫滴雞精16入3盒組(50ml/入),"['', '']",https://www.findprice.com.tw/go/gw7gutvz/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo購物網,"$ 4,824",【娘家】常溫滴雞精16入2盒組(50ml/入),"['', '']",https://www.findprice.com.tw/go/gzjvb88k/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩購物中心,"$ 3,308",娘家冷凍滴雞精(坐月子.病後保養) 10包/盒x2盒,"['', '']",https://www.findprice.com.tw/go/g3ij3uv9/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo購物網,$ 270,【鮮食家】任選799 娘家廚房 滴雞精水餃(25g±5%*16入/袋),"['', '']",https://www.findprice.com.tw/go/gzt9y3kf/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 安康藥妝,"$ 2,399",娘家 常溫滴雞精(50mlX16包/盒)《刷樂天卡滿$5000賺10%點數回饋》,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gnmhir36/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo摩天商城 - 杏一健康生活館,"$ 3,636",娘家 常溫滴雞精 (12入/2盒/特規組)【杏一】(保健),"['', '']",https://www.findprice.com.tw/go/gckr7sxr/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo摩天商城 - 杏一健康生活館,"$ 3,280",娘家 滴雞精-冷凍版 (65ml/包 ，20入/盒)【杏一】(保健),"['', '']",https://www.findprice.com.tw/go/gsiy3ffy/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩購物中心,"$ 4,750",娘家常溫滴雞精16入*2盒組,"['', '']",https://www.findprice.com.tw/go/gxtp7a22/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 專品藥局,"$ 2,412",民視 娘家 滴雞精 50mlX16包/盒 (100%全雞膠原精華) 專品藥局【2019101】,"['活動\n7.7夏日免運節-商城85折，全站滿額送', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gnbsd4gg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 專品藥局,"$ 2,412",民視 娘家 滴雞精 50mlX16包/盒 (100%全雞膠原精華) 專品藥局【2019101】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gg8eew7i/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 專品藥局,"$ 2,412",民視 娘家 滴雞精 50mlX16包/盒 (100%全雞膠原精華) 專品藥局【2019101】,"['', '']",https://www.findprice.com.tw/go/gi9c2kf8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo摩天商城 - 專品藥局,"$ 2,412",民視 娘家 滴雞精 50mlX16包/盒 (100%全雞膠原精華) 專品藥局【2019101】,"['', '']",https://www.findprice.com.tw/go/gpi8giim/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,7-ELEVEN線上購物中心,"$ 4,824",【娘家】常溫滴雞精16入2盒組,"['', '']",https://www.findprice.com.tw/go/ggsds9cn/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,SuperBuy市集,"$ 4,824",娘家滴雞精16入2盒9折-常溫,"['', '']",https://www.findprice.com.tw/go/g7guzfgk/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,7-ELEVEN線上購物中心,"$ 4,963",【娘家】滴雞精10入x3盒,"['', '']",https://www.findprice.com.tw/go/g5acid4a/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,博客來,"$ 4,963",娘家冷凍滴雞精10入x3盒,"['', '']",https://www.findprice.com.tw/go/gqhi3nhw/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,博客來,"$ 4,963",娘家冷凍滴雞精10入x3盒,"['', '']",https://www.findprice.com.tw/go/g8kt58wv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩購物中心,"$ 4,824",娘家常溫滴雞精32入 (50ml/入),"['', '']",https://www.findprice.com.tw/go/g96u9a4s/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 專品藥局,"$ 1,350",娘家大紅麴 娘家益生菌 娘家滴雞精 娘家益生菌順暢有酵強效版PLUS 娘家好茯敏 原廠公司貨 健康食品 專品藥局,"['活動\n7.7夏日免運節-商城85折，全站滿額送', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g2umfcgk/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Her森森購物網,"$ 4,824",娘家常溫滴雞精16入*2盒組(50ml/入).,"['', '']",https://www.findprice.com.tw/go/gmh2qh8g/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,ETMall東森購物網,"$ 4,824",娘家常溫滴雞精16入*2盒組(50ml/入).,"['', '']",https://www.findprice.com.tw/go/g4s9g268/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,ETMall東森購物網,"$ 4,824",【娘家】常溫滴雞精16入*2盒組(50ml/入),"['', '']",https://www.findprice.com.tw/go/gmrz7cyd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Her森森購物網,"$ 4,824",【娘家】常溫滴雞精16入*2盒組(50ml/入),"['', '']",https://www.findprice.com.tw/go/g4nv5n36/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 健康優購網,"$ 4,824",娘家 常溫滴雞精32入 (50ml/入)原廠公司貨,"['', '']",https://www.findprice.com.tw/go/gq9k56w5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩購物中心,"$ 4,963",娘家冷凍滴雞精(坐月子.病後保養) 10包x3盒,"['', '']",https://www.findprice.com.tw/go/gm9aqz58/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 健康優購網,"$ 5,900",娘家 滴雞精 (40入),"['', '']",https://www.findprice.com.tw/go/gnbizbnm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,SuperBuy市集,"$ 5,904",娘家滴雞精20入2盒9折,"['', '']",https://www.findprice.com.tw/go/g38ai3es/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,7-ELEVEN線上購物中心,"$ 5,904",【娘家】滴雞精20入x2盒,"['', '']",https://www.findprice.com.tw/go/gp7k3268/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩購物中心,"$ 6,104",娘家冷凍滴雞精40入,"['', '']",https://www.findprice.com.tw/go/g3ayx3s7/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 專品藥局,"$ 1,080",王朝 原味PLUS滴雞精 8包/盒 (娘家 老協珍 熬雞精) 專品藥局【2020074】,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g2a5f87q/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 專品藥局,"$ 1,080",王朝 原味PLUS滴雞精 8包/盒 (娘家 老協珍 熬雞精) 專品藥局【2020074】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gn7nh8qb/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 專品藥局,"$ 1,080",王朝 原味PLUS滴雞精 8包/盒 (娘家 老協珍 熬雞精) 專品藥局【2020074】,"['', '']",https://www.findprice.com.tw/go/gzav3w2g/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo摩天商城 - 專品藥局,"$ 1,080",王朝 原味PLUS滴雞精 8包/盒 (娘家 老協珍 熬雞精) 專品藥局【2020074】,"['', '']",https://www.findprice.com.tw/go/gn9y9cnt/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,ETMall東森購物網,"$ 5,904",【娘家】冷凍滴雞精40入(65ml/入),"['', '']",https://www.findprice.com.tw/go/g3e2ud2k/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Her森森購物網,"$ 5,904",【娘家】冷凍滴雞精40入(65ml/入),"['', '']",https://www.findprice.com.tw/go/gtvv5kph/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 大樹健康購物網(大樹藥局線上),"$ 1,786",娘家 滴雞精 10包/盒 冷凍 廠商直送 大樹,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g248enzm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩購物中心,"$ 5,811",娘家冷凍滴雞精(坐月子.病後保養) 20包/盒x2盒,"['', '']",https://www.findprice.com.tw/go/gay5eagc/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 康是美Cosmed,"$ 1,999",娘家滴雞精65ml X10入 [低溫宅配]-廠商直送,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gg64g8a8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 杏一健康生活館,"$ 1,786",娘家 滴雞精 (65ml/10入/單盒)冷凍配送 【杏一】,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gw3sphsf/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 健康優購網,"$ 6,232",娘家 滴雞精 (20入/40入) 原廠公司貨,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gxmxtbea/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 杏一健康生活館,"$ 1,880",娘家 滴雞精(65ml/包 10入/盒) 冷凍配送 【杏一】,"['', '']",https://www.findprice.com.tw/go/gq3ekmd6/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,PXGo! 全聯線上購,"$ 1,880",【預購】娘家滴雞精65mlx11包(附提袋)(離島地區不配送),"['', '']",https://www.findprice.com.tw/go/gs3krtby/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,friDay購物,"$ 1,299",娘家廚房 美味養生滴雞精水餃買6包送2包(共8包),"['活動\n8周年生日慶，最高回饋50%', '']",https://www.findprice.com.tw/go/g4e4sdnd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 杏一健康生活館,"$ 1,880",[廠商冷凍直配]娘家 滴雞精 (65ml/10入/單盒)冷凍配送 【杏一】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/ge4euxxv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 專品藥局,"$ 1,450",王朝 原味滴雞精 10包入(低溫運送，同娘家、老協珍) 專品藥局【2007424】,"['', '']",https://www.findprice.com.tw/go/gekr7ag8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 專品藥局,"$ 1,450",王朝 原味滴雞精 10包入 (低溫運送，同娘家、老協珍) 專品藥局【2007424】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gk3ix7ew/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 大樹健康購物網(大樹藥局線上),"$ 3,116",娘家 滴雞精 20包/盒 冷凍 廠商直送 大樹,"['活動\n蝦皮7.7夏日免運節 領6張免運券', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gnbi5i7n/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 專品藥局,"$ 1,600",王朝 美麗四物滴雞精10包入(低溫運送 同娘家、老協珍) 專品藥局【2007308】,"['', '']",https://www.findprice.com.tw/go/gfg4aq9w/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩購物中心,"$ 7,075",娘家常溫滴雞精16入*3盒組,"['', '']",https://www.findprice.com.tw/go/ggypdsmj/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 專品藥局,"$ 1,600",王朝 靈芝百合滴雞精 10包入(低溫運送 同娘家、老協珍) 專品藥局【2009170】,"['', '']",https://www.findprice.com.tw/go/geckrd8u/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 專品藥局,"$ 1,650",王朝 冬蟲夏草滴雞精 10包入(低溫運送 同娘家、老協珍) 專品藥局【2005892】,"['', '']",https://www.findprice.com.tw/go/gmhwjjrd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,7-ELEVEN線上購物中心,"$ 7,075",【娘家】常溫滴雞精16入x2盒組,"['', '']",https://www.findprice.com.tw/go/g94s76sz/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 專品藥局,"$ 1,600",王朝 美麗四物滴雞精 10包入 (低溫運送，同娘家、老協珍) 專品藥局【2007308】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gq7wjttd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 專品藥局,"$ 1,600",王朝 靈芝百合滴雞精 10包入 (低溫運送，同娘家、老協珍) 專品藥局【2009170】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g54kzphg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo摩天商城 - 專品藥局,"$ 1,600",王朝 靈芝百合滴雞精 10包入 (低溫運送，同娘家、老協珍) 專品藥局【2009170】,"['', '']",https://www.findprice.com.tw/go/grdk7i34/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo摩天商城 - 專品藥局,"$ 1,600",王朝 美麗四物滴雞精 10包入 (低溫運送，同娘家、老協珍) 專品藥局【2007308】,"['', '']",https://www.findprice.com.tw/go/gvm58q5w/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 專品藥局,"$ 1,700",王朝 養氣人蔘滴雞精 10包入(低溫運送 同娘家、老協珍) 專品藥局【2007567】,"['', '']",https://www.findprice.com.tw/go/ggwjheci/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 專品藥局,"$ 1,650",王朝 冬蟲夏草滴雞精 10包入 (低溫運送，同娘家、老協珍) 專品藥局【2005892】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g4eudq7s/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo摩天商城 - 專品藥局,"$ 1,650",王朝 冬蟲夏草滴雞精 10包入 (低溫運送，同娘家、老協珍) 專品藥局【2005892】,"['', '']",https://www.findprice.com.tw/go/gzmjzbip/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 元康健保藥局,"$ 3,116",娘家滴雞精(20包/盒)低溫配送-廠商直送【元康藥局】,"['活動\n7.7夏日免運節-商城85折，全站滿額送', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/gnxd6q76/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 元康藥局,"$ 3,116",娘家滴雞精(20包/盒)低溫配送-廠商直送 元氣健康館,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g3qrf4kr/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 元氣健康館,"$ 3,116",娘家滴雞精(20包/盒)低溫配送-廠商直送 元氣健康館,"['', '']",https://www.findprice.com.tw/go/g7yxzd2w/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 專品藥局,"$ 1,700",王朝 養氣人蔘滴雞精 10包入 (低溫運送，同娘家、老協珍) 專品藥局【2007567】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gge4gcgn/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo摩天商城 - 專品藥局,"$ 1,700",王朝 養氣人蔘滴雞精 10包入 (低溫運送，同娘家、老協珍) 專品藥局【2007567】,"['', '']",https://www.findprice.com.tw/go/ggu7qduv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩購物中心,"$ 7,075",娘家常溫滴雞精48入 (50ml/入),"['', '']",https://www.findprice.com.tw/go/g3jmepw5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 杏一健康生活館,"$ 3,280",娘家 滴雞精 (65ml/20入/盒)冷凍配送 【杏一】,"['活動\n7.7夏日免運節-商城85折，全站滿額送', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g5aqz3q5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 康是美Cosmed,"$ 3,280",娘家滴雞精(65ml*20入/盒) [低溫宅配]-廠商直送,"['活動\n7.7夏日免運節-商城85折，全站滿額送', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/ghu3wr3u/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 杏一健康生活館,"$ 3,280",娘家 滴雞精(65ml/包 20入/盒) 冷凍配送 【杏一】,"['', '']",https://www.findprice.com.tw/go/gqvxvdup/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Her森森購物網,"$ 7,075",娘家常溫滴雞精16入*3盒組(50ml/入).,"['', '']",https://www.findprice.com.tw/go/g7sha4qh/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,ETMall東森購物網,"$ 7,075",娘家常溫滴雞精16入*3盒組(50ml/入).,"['', '']",https://www.findprice.com.tw/go/gnpjz3ur/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,ETMall東森購物網,"$ 7,075",【娘家】常溫滴雞精16入*3盒組(50ml/入),"['', '']",https://www.findprice.com.tw/go/gjrv5q9y/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Her森森購物網,"$ 7,075",【娘家】常溫滴雞精16入*3盒組(50ml/入),"['', '']",https://www.findprice.com.tw/go/gtime3tm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩購物中心,"$ 3,280",娘家 滴雞精(65ml/包 ，20入/盒) ，冷凍配送 【杏一】,"['', '']",https://www.findprice.com.tw/go/g6yh46yv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 健康優購網,"$ 7,075",娘家 常溫滴雞精48入 (50ml/入)原廠公司貨,"['', '']",https://www.findprice.com.tw/go/g3ip9kmx/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 杏一健康生活館,"$ 3,600",[送滴雞精1入]娘家 常溫滴雞精12入 2盒特規組【杏一】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gzbwh6qt/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 杏一健康生活館,"$ 2,952",[廠商冷凍直配]娘家 滴雞精(65ml/包 20入/盒) 冷凍配送 【杏一】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g32uhsrp/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 專品藥局,"$ 2,650",王朝 原味滴雞精 20包入 (低溫運送，同娘家、老協珍) 專品藥局【2005766】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g7ypxdei/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 專品藥局,"$ 2,650",王朝 原味滴雞精 20包入 (低溫運送，同娘家、老協珍) 專品藥局【2005766】,"['', '']",https://www.findprice.com.tw/go/gbu9a8qj/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo摩天商城 - 專品藥局,"$ 2,650",王朝 原味滴雞精 20包入 (低溫運送，同娘家、老協珍) 專品藥局【2005766】,"['', '']",https://www.findprice.com.tw/go/gz5udgsx/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 專品藥局,"$ 2,880",王朝 靈芝百合滴雞精 20包入(低溫運送 同娘家、老協珍) 專品藥局【2007803】,"['', '']",https://www.findprice.com.tw/go/gq7s98nr/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 專品藥局,"$ 2,880",王朝 靈芝百合滴雞精 20包入 (低溫運送，同娘家、老協珍) 專品藥局【2007803】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gz7q7khg/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 專品藥局,"$ 2,880",王朝 美麗四物滴雞精 20包入 (低溫運送，同娘家、老協珍) 專品藥局【2009090】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gs5q5qzx/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo摩天商城 - 專品藥局,"$ 2,880",王朝 靈芝百合滴雞精 20包入 (低溫運送，同娘家、老協珍) 專品藥局【2007803】,"['', '']",https://www.findprice.com.tw/go/gvxrbwbu/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo摩天商城 - 專品藥局,"$ 2,880",王朝 美麗四物滴雞精 20包入 (低溫運送，同娘家、老協珍) 專品藥局【2009090】,"['', '']",https://www.findprice.com.tw/go/gsh4krf8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 專品藥局,"$ 2,980",王朝 冬蟲夏草滴雞精 20包入(低溫運送 同娘家、老協珍) 專品藥局【2009168】,"['', '']",https://www.findprice.com.tw/go/gurpbk5w/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 專品藥局,"$ 2,980",王朝 冬蟲夏草滴雞精 20包入 (低溫運送，同娘家、老協珍) 專品藥局【2009168】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g9y5y7s9/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo摩天商城 - 專品藥局,"$ 2,980",王朝 冬蟲夏草滴雞精 20包入 (低溫運送，同娘家、老協珍) 專品藥局【2009168】,"['', '']",https://www.findprice.com.tw/go/gzf6ihg6/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 專品藥局,"$ 3,100",王朝 養氣人參滴雞精 20包入(低溫運送 同娘家、老協珍) 專品藥局【2009169】,"['', '']",https://www.findprice.com.tw/go/grds78ca/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 專品藥局,"$ 3,100",王朝 養氣人蔘滴雞精 20包入 (低溫運送，同娘家、老協珍) 專品藥局【2009169】,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/gaw56cu7/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,momo摩天商城 - 專品藥局,"$ 3,100",王朝 養氣人蔘滴雞精 20包入 (低溫運送，同娘家、老協珍) 專品藥局【2009169】,"['', '']",https://www.findprice.com.tw/go/g8c48q3c/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,PChome 24h購物,"$ 7,075",★Pi錢包刷Pi卡最高11%【娘家】常溫滴雞精(50ml*16入)/盒x3盒+娘家常溫滴雞精(50ml*1入)x3入,"['', '']",https://www.findprice.com.tw/go/gnmtvby5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,博客來,"$ 8,880",娘家冷凍滴雞精60入,"['', '']",https://www.findprice.com.tw/go/gd8c8gc6/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,博客來,"$ 8,880",娘家冷凍滴雞精60入,"['', '']",https://www.findprice.com.tw/go/ga4sv9nj/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 元康藥局,"$ 5,904",2盒組 娘家- 滴雞精(20包/盒)低溫配送-廠商直送 元氣健康館,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g6tmetn5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩超級商城 - 元氣健康館,"$ 5,904",2盒組 娘家- 滴雞精(20包/盒)低溫配送-廠商直送 元氣健康館,"['', '']",https://www.findprice.com.tw/go/gupm92id/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,7-ELEVEN線上購物中心,"$ 8,880",【娘家】滴雞精 (一盒60入),"['', '']",https://www.findprice.com.tw/go/ge8w98w7/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,博客來,"$ 8,880",娘家冷凍滴雞精60包/65ml/包,"['', '']",https://www.findprice.com.tw/go/ggw5kh68/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,博客來,"$ 8,880",娘家冷凍滴雞精60包/65ml/包,"['', '']",https://www.findprice.com.tw/go/gf666a24/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,ETMall東森購物網,"$ 8,880",【娘家】冷凍滴雞精60入(65ml/入),"['', '']",https://www.findprice.com.tw/go/g5kbn5yf/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Her森森購物網,"$ 8,880",【娘家】冷凍滴雞精60入(65ml/入),"['', '']",https://www.findprice.com.tw/go/ghk9wxv7/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩購物中心,"$ 8,880",娘家冷凍滴雞精(坐月子.病後保養) 20包x3盒,"['', '']",https://www.findprice.com.tw/go/gk32szpr/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,PChome 24h購物,"$ 8,880",★Pi錢包刷Pi卡最高11%娘家滴雞精60入【官方直營】,"['', '']",https://www.findprice.com.tw/go/g766wmd8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,PChome 24h購物,"$ 2,952",娘家滴雞精20入/盒,"['', '']",https://www.findprice.com.tw/go/gasdkf4e/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,PChome 24h購物,"$ 2,546",★Pi錢包刷Pi卡最高11%娘家常溫滴雞精50ml*16入【官方直營】,"['', '']",https://www.findprice.com.tw/go/gy5ut7nv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Her森森購物網,$ 270,娘家廚房 滴雞精水餃(25g±5%*16入/袋),"['', '']",https://www.findprice.com.tw/go/grmxxrf2/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,ETMall東森購物網,$ 270,娘家廚房 滴雞精水餃(25g±5%*16入/袋),"['', '']",https://www.findprice.com.tw/go/gnbkj5wr/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,PChome 24h購物,"$ 5,904",★Pi錢包刷Pi卡最高11%娘家滴雞精20入/盒x2盒(共40入)【官方直營】,"['', '']",https://www.findprice.com.tw/go/gcga2uhs/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,樂天市場 - 珍愛真愛,"$ 7,499",福壽出品【好富食堂】養生滴雞精50mlx30包/盒【買1盒送2包】洽富氣冷雞 膠原蛋白含量高於熬雞精 回娘家伴手禮 經濟包 另有單包裝 防疫美容調理聖品,"['活動\n樂天購物市集 指定店家 天天領券現領現折', '']",https://www.findprice.com.tw/go/g28q5akz/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,蝦皮商城 - 鮮食家 生鮮美食攏抵家,$ 230,娘家廚房水餃 滴雞精/塔香海鮮/剝皮辣椒/杏鮑菇雪菜(16入/袋),"['活動\n7.7夏日免運節-商城85折，全站滿額送', '折扣\n6月薪客滿299折150  折扣碼：IA202206 複製折扣碼 ']",https://www.findprice.com.tw/go/g4kvjxf6/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,PChome 24h購物,"$ 2,952",㊣超值搶購↘95折娘家滴雞精20入/盒,"['', '']",https://www.findprice.com.tw/go/grprrbiv/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,PChome 24h購物,"$ 4,824",★Pi錢包刷Pi卡最高11%娘家常溫滴雞精(50ml*16入)/盒 x2盒+娘家常溫滴雞精(50ml*1入)*2,"['', '']",https://www.findprice.com.tw/go/gp3ndesd/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,PChome 24h購物,"$ 1,786",娘家滴雞精10入/盒,"['', '']",https://www.findprice.com.tw/go/g78i948k/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,PChome 24h購物,"$ 1,711",★Pi錢包刷Pi卡最高11%娘家滴雞精10入/盒【官方直營】,"['', '']",https://www.findprice.com.tw/go/g7ypdai5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,PChome 24h購物,"$ 3,116",★Pi錢包刷Pi卡最高11%娘家滴雞精20入【官方直營】,"['', '']",https://www.findprice.com.tw/go/gkxxvdg6/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,SuperBuy市集,"$ 17,760",娘家滴雞精60入2組 送10入,"['', '']",https://www.findprice.com.tw/go/gu7uvfau/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,PChome 24h購物,"$ 3,760",★Pi錢包刷Pi卡最高11%娘家滴雞精10入X2盒【官方直營】,"['', '']",https://www.findprice.com.tw/go/gypthshy/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Her森森購物網,"$ 11,650",娘家常溫滴雞精16入*5盒組(50ml/入).,"['', '']",https://www.findprice.com.tw/go/gvttxmrb/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,ETMall東森購物網,"$ 11,650",娘家常溫滴雞精16入*5盒組(50ml/入).,"['', '']",https://www.findprice.com.tw/go/gi522kds/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,ETMall東森購物網,"$ 11,650",【娘家】常溫滴雞精16入*5盒組(50ml/入),"['', '']",https://www.findprice.com.tw/go/g4s362i5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Her森森購物網,"$ 11,650",【娘家】常溫滴雞精16入*5盒組(50ml/入),"['', '']",https://www.findprice.com.tw/go/gpmzbuz7/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,ETMall東森購物網,"$ 11,680",【娘家】冷凍滴雞精20入x4盒組 (65ml/入),"['', '']",https://www.findprice.com.tw/go/g32aceg8/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Her森森購物網,"$ 11,680",【娘家】冷凍滴雞精20入x4盒組 (65ml/入),"['', '']",https://www.findprice.com.tw/go/gt94kf8c/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,PChome 24h購物,"$ 1,692",娘家滴雞精10入/盒,"['', '']",https://www.findprice.com.tw/go/gxmxrmrm/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,博客來,"$ 18,600",娘家冷凍滴雞精120入,"['', '']",https://www.findprice.com.tw/go/g4qd6eew/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,博客來,"$ 18,600",娘家冷凍滴雞精120入,"['', '']",https://www.findprice.com.tw/go/gwfece68/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,Yahoo奇摩購物中心,"$ 18,600",娘家冷凍滴雞精(坐月子.病後保養) 20包/盒x6盒,"['', '']",https://www.findprice.com.tw/go/gce8idu3/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE
+findprice,娘家滴雞精,PChome 24h購物,"$ 18,600",★Pi錢包刷Pi卡最高11%娘家滴雞精120入【官方直營】,"['', '']",https://www.findprice.com.tw/go/gdum72w5/?s=0&t=1&f=d&k=%E5%A8%98%E5%AE%B6%20%E6%BB%B4%20%E9%9B%9E%E7%B2%BE

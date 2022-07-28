@@ -1,13 +1,18 @@
 from os.path import dirname, abspath
-pwd = dirname(abspath(__file__))
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
 
-var = ['score', 'option', 'tempcode', 'usercode']
-tmp = []
-f = open(f"{pwd}/test.txt", "r")
-Lines = f.readlines()
+pwd = dirname(abspath(__file__)).replace('\\', '/')
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
-for i in range(0, len(Lines)):
-    exec(f'{var[i]} = {Lines[i]}')
+accounts_list = []
+with open(f'{pwd}/test.txt', 'r') as f:
+    accounts_list = [line.strip() for line in f]
 
-    # check type
-    exec(f'print({var[i]}, type({var[i]}))')
+res = []
+for i in range(0, len(accounts_list), 2):
+    res.append([accounts_list[i], accounts_list[i + 1]])
+
+print(res)

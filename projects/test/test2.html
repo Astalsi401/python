@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <button id="btn">validate the order</button>
+    <span id="total_qte">0</span>
+    <script>
+        var btn = document.querySelector('#btn');
+
+        // addEventListener 
+        btn.addEventListener('click', function () {
+            var total = document.getElementById('total_qte').innerHTML;
+            console.log(total)
+            if (total == 0) {
+                var p = document.createElement('p');
+                p.innerText = 'error order';
+                document.body.appendChild(p);
+            }
+        });
+    </script>
+
+</body>
+
+</html>
