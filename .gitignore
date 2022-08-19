@@ -2,5 +2,9 @@ __pycache__che__/
 install/
 noupload/
 secret/
+csv/
+csv2/
+json/
 .tmp/momo.json
 .tmp/vpn.json
+*.html
