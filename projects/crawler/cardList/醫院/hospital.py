@@ -1,5 +1,6 @@
 import re
 import logging
+import pandas as pd
 from os.path import dirname, abspath
 from random import uniform, choice
 from time import sleep
@@ -16,6 +17,7 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import NoSuchElementException
 from webdriver_manager.chrome import ChromeDriverManager
+
 
 pwd = re.sub('/py$', '', dirname(abspath(__file__)).replace('\\', '/'))
 header = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36'}
@@ -116,8 +118,17 @@ def appendCsv():
     List(a + b).writeCsv(pwd, 'hospital-all.csv')
 
 
+def cleanData():
+    df = pd.read_csv(f'{pwd}/hospital_n1.csv')
+    df = pd.DataFrame(df, columns=['hospital', 'name', 'title', 'address', '電話', 'email', '級別'])
+    df['hospital'] = df['hospital'].str.replace('((\\(|（).*(\\)|）)|-委託.*$|\s*)', '', regex=True)
+    df['title'] = df['title'].str.replace('([^(部主任|副部主任|副總院長|科主任|副科主任|副院長|院長|主任|董事長|總裁|總監|總執行長|副總執行長|執行長|部長|醫師|負責人|總院長)]|\s*)', '', regex=True)
+    df['name'] = df['name'].str.replace('\s*', '', regex=True)
+    df.to_csv(f'{pwd}/hospital_n2.csv', index=False)
+
+
 if __name__ == '__main__':
     # updateProxies(f'{pwd}/.tmp')
     #checkProxy(readCsv(f'{pwd}/.tmp', 'proxies.csv'))
     #writeCsv(pwd, 'orgInfo_c2.csv', main(), 'w+')
-    appendCsv()
+    cleanData()

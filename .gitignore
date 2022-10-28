@@ -8,5 +8,7 @@ json/
 .tmp/momo.json
 .tmp/vpn.json
 *.html
+*.xlsx
 *.csv
 *.dta
+*.png
