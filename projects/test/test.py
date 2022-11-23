@@ -1,26 +1,16 @@
-from os.path import dirname, abspath
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
-from time import sleep
-import undetected_chromedriver as uc
-import threading
+import openpyxl
 
-pwd = dirname(abspath(__file__)).replace('\\', '/')
-
-# webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-# uc.Chrome(use_subprocess=True)
+pwd = 'd:/Documents/python/projects/schedule'
 
 
-def instance(n):
-    return [webdriver.Chrome(service=Service(ChromeDriverManager().install())) for m in range(0, n)]
+timeslot = openpyxl.load_workbook(f"{pwd}/test.xlsx")
+sh = timeslot['Sheet1']
 
+availability = []
+for rows in sh.iter_rows():
+    row_cells = []
+    for cell in rows:
+        row_cells.append(cell.value)
+    availability.append(tuple(row_cells))
 
-def Main(i):
-    i.get('chrome://version/')
-
-
-threads = [threading.Thread(target=Main, args=(i,)) for i in instance(int(input('Buy number : ')))]
-for t in threads:
-    t.start()
+print(len(availability[0]))
