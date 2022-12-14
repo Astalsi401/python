@@ -69,10 +69,11 @@ def main2(path: str, df: dict):
 
 def addNew(date, ext='csv'):
     df = pd.read_csv(f'{pwd}/addNew{date}.csv') if ext == 'csv' else pd.read_excel(f'{pwd}/addNew{date}.xlsx')
+    df['類別'] = '新增'
     df['公司名稱(中文)'] = df['公司名稱(中文)'].replace(regex=r'/', value='')
     df['公司名稱(英文)'] = df['公司名稱(英文)'].replace(regex=r'/', value='')
     main2(f'{pwd}/addNew/{date}', {'tc': df[['公司名稱(中文)', '類別', '企業頁面連結(中文)+參數']], 'en': df[['公司名稱(英文)', '類別', '企業頁面連結(英文)+參數']]})
 
 
 if __name__ == '__main__':
-    addNew('1117', 'xlsx')
+    addNew('1123', 'xlsx')
