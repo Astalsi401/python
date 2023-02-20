@@ -1,63 +1,43 @@
+from myfuc import MyPdf, Combine
 from os import chdir
 from os.path import dirname, abspath
-from pikepdf import Pdf
 import pandas as pd
-from myfuc import cpath
 
 
 chdir(dirname(abspath(__file__)))
-useCols = ['國品字號', '公司名稱(中文)\n如有異動，請以括號備註原申請公司名稱', '項目名稱(中文)\n如有異動，請以括號備註原申請項目名稱']
-pd.set_option('display.max_columns', None)
-sheet = {'產品類': '產品類(566)', '服務類': '服務類(394)', '產品類1213': '產品類1213'}
-per = {'產品類': 6, '服務類': 6, '產品類1213': 6}
-num = {'產品類': 4, '服務類': 3, '產品類1213': 1}
+pd.set_option('display.max.columns', None)
 
 
-def pdfSplit(pdfInfo):
-    i = 0
-    pages = pdfInfo.pdf.pages
-    per = pdfInfo.per
-    for index, row in pdfInfo.df.iterrows():
-        p = index // 150 + 1
-        output = Pdf.new()
-        code = row.國品字號.replace(' ', '')
-        try:
-            for j in range(per):
-                output.pages.append(pages[i + j])
-            output.save(f'{cpath(f"secret/output/{pdfInfo.name}/p{p}/{code}")}/{code}.pdf')
-        except IndexError:
-            break
-        i = i + per
-
-
-class MyPdf:
-    def __init__(self, name) -> None:
-        self.name = name
-        self.per = per[name]
-        self.df = pd.read_excel(f'secret/2022續審有無異動名單(分類).xlsx', sheet_name=sheet[self.name], usecols=useCols)
-        #self.pdf = Pdf.open(f'secret/合併列印/SNQ國家品質標章授權合約書({self.name}全).pdf')
-        self.pdf = Pdf.open(f'secret/合併列印/{self.name}.pdf')
-
-
-def main1():
-    for pdf in [MyPdf(name) for name in ['產品類1213']]:
-        pdfSplit(pdf)
-
-
-class Combine:
-    def __init__(self, cat) -> None:
-        self.cat = cat
-        self.n = num[cat] + 1
-        self.df = pd.concat([pd.read_excel('secret/2022續審通過授權約定書.xlsx', sheet_name=f'{cat}{i}') for i in range(1, self.n)])
-        self.df = self.df.drop(self.df[self.df.Type != 'Folder'].index)[['Name', 'URL']]
+def main():
+    for w1, w2 in [['(大專學生)產業見習證明', '產業見習']]:
+        df = pd.read_excel('secret/excel/2022時數證明/時數計算_學生個人.xlsx', sheet_name=w2)
+        MyPdf(df, pdfPath=f'secret/合併列印/2022時數證明/{w1}.pdf').split(1, f'secret/pdf/2022時數證明/{w2}', ['編號', '姓名', 'date'], folder='編號')
 
 
 def main2():
-    writer = pd.ExcelWriter('secret/2022續審通過授權約定書_url.xlsx', engine='xlsxwriter')
-    for data in [Combine(cat) for cat in ['服務類', '產品類', '產品類1213']]:
-        data.df.to_excel(writer, sheet_name=data.cat, index=False)
-    writer.close()
+    #writer = pd.ExcelWriter('secret/時數計算_學生個人_url.xlsx', engine='xlsxwriter')
+    # writer.close()
+    excelPath = 'secret/excel/2022時數證明'
+    for w, n in [['產業見習', 9], ['高中生', 12]]:
+        url = pd.concat([pd.read_excel(f'{excelPath}/時數證明_url.xlsx', sheet_name=f'{w}p{i}') for i in range(1, n)])
+        profile = pd.read_excel(f'{excelPath}/時數計算_學生個人.xlsx', sheet_name=w, usecols=['編號', '姓名', 'date', '電子郵件地址'])
+        profile['編號'] = profile['編號'].str.replace('|', '', regex=False)
+        edmList = Combine(profile, url, w).merge('編號', 'inner')
+        edmList[['出生西元年', '自訂欄位3']] = ''
+        edmList[['電子郵件地址', '姓名', '出生西元年', 'URL', '編號', '自訂欄位3']].to_csv(f'{excelPath}/{w}_時數證明寄送.csv', encoding='utf-8', index=False, header=False)
+
+
+def main3():
+    df = pd.read_excel('secret/excel/2022時數證明/時數計算_教師領團-高中生-剩餘.xlsx')
+    MyPdf(df, pdfPath=f'secret/合併列印/2022時數證明/高中_額外.pdf').split(1, f'secret/pdf/2022時數證明/教師領團-高中生-剩餘', ['編號', '姓名', 'date'], folder='電子郵件地址', limit=float('inf'))
+
+
+def main4():
+    df = pd.concat([pd.read_excel('secret/excel/2022時數證明/時數證明_url.xlsx', sheet_name=f'大專團報p{i}', usecols=['Name', 'Type', 'URL']) for i in range(1, 6)]).query('Type == "Folder"')
+    df = df.merge(pd.read_excel('secret/excel/2022時數證明/時數計算_教師領團-大專生-寄送名單.xlsx'), how='right', left_on='Name', right_on='電子郵件地址')
+    df[['編號', '姓名', '學校', '手機', '電子郵件地址', 'date', '簽到', '簽退', '時數', 'URL']].to_excel('secret/excel/2022時數證明/大專生_教師領團_時數證明寄送.xlsx', index=False)
 
 
 if __name__ == '__main__':
-    main2()
+    main3()
+    # main4()
